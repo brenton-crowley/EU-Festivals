@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="1.1" toolsVersion="2182" systemVersion="11E53" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" initialViewController="JYd-oH-Un3">
+    <dependencies>
+        <deployment defaultVersion="1296" identifier="iOS"/>
+        <development defaultVersion="4200" identifier="xcode"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="1181"/>
+    </dependencies>
+    <scenes>
+        <!--Listing Table View Controller-->
+        <scene sceneID="Yj7-3t-IuE">
+            <objects>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="uqU-XN-Gz0" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <tableViewController id="ZeR-Ef-1QT" customClass="ListingTableViewController" sceneMemberID="viewController">
+                    <tableView key="view" opaque="NO" clipsSubviews="YES" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" rowHeight="130" sectionHeaderHeight="22" sectionFooterHeight="22" id="7yz-lC-VJ5">
+                        <rect key="frame" x="0.0" y="64" width="320" height="416"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" red="0.17254902422428131" green="0.17254902422428131" blue="0.15294118225574493" alpha="1" colorSpace="deviceRGB"/>
+                        <color key="separatorColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                        <searchBar key="tableHeaderView" contentMode="redraw" barStyle="blackTranslucent" text="" placeholder="Search a festival or band" id="94v-0E-Uo9">
+                            <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                            <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                            <textInputTraits key="textInputTraits" autocorrectionType="no"/>
+                            <connections>
+                                <outlet property="delegate" destination="ZeR-Ef-1QT" id="1pI-Zm-vdB"/>
+                            </connections>
+                        </searchBar>
+                        <prototypes>
+                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="none" accessoryType="disclosureIndicator" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" shouldIndentWhileEditing="NO" reuseIdentifier="ListingCell" id="BkC-cT-bcJ" customClass="ListingCell">
+                                <rect key="frame" x="0.0" y="66" width="320" height="130"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                                <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                                    <rect key="frame" x="0.0" y="0.0" width="300" height="129"/>
+                                    <autoresizingMask key="autoresizingMask"/>
+                                    <subviews>
+                                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="german-flag.png" id="kxf-fb-TAi">
+                                            <rect key="frame" x="0.0" y="0.0" width="40" height="130"/>
+                                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        </imageView>
+                                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="flag-overlay.png" id="tMf-QX-hAt">
+                                            <rect key="frame" x="-7" y="-5" width="61" height="142"/>
+                                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        </imageView>
+                                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="29 July 2012" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="12" id="egW-B1-hOc">
+                                            <rect key="frame" x="62" y="21" width="191" height="21"/>
+                                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                            <fontDescription key="fontDescription" name="Chalkduster" family="Chalkduster" pointSize="12"/>
+                                            <color key="textColor" white="0.87100821167883213" alpha="1" colorSpace="calibratedWhite"/>
+                                            <color key="highlightedColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                            <color key="shadowColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                                            <size key="shadowOffset" width="1" height="1"/>
+                                        </label>
+                                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Hurricane Festival" lineBreakMode="wordWrap" numberOfLines="2" baselineAdjustment="none" minimumFontSize="12" id="xF6-we-Dfv">
+                                            <rect key="frame" x="62" y="40" width="191" height="49"/>
+                                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                            <fontDescription key="fontDescription" name="Chalkduster" family="Chalkduster" pointSize="20"/>
+                                            <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                            <color key="highlightedColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                            <color key="shadowColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                                            <size key="shadowOffset" width="1" height="1"/>
+                                        </label>
+                                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="The Offspring, Rise Against" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="10" id="GdH-5Y-iho">
+                                            <rect key="frame" x="62" y="95" width="191" height="21"/>
+                                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                            <fontDescription key="fontDescription" name="Chalkduster" family="Chalkduster" pointSize="10"/>
+                                            <color key="textColor" red="0.77883848852040816" green="0.77883848852040816" blue="0.77883848852040816" alpha="1" colorSpace="calibratedRGB"/>
+                                            <color key="highlightedColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                            <color key="shadowColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                                            <size key="shadowOffset" width="1" height="1"/>
+                                        </label>
+                                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="€300" textAlignment="right" lineBreakMode="wordWrap" baselineAdjustment="alignBaselines" minimumFontSize="12" id="TXU-NA-MDc">
+                                            <rect key="frame" x="235" y="21" width="65" height="21"/>
+                                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                            <fontDescription key="fontDescription" name="Chalkduster" family="Chalkduster" pointSize="12"/>
+                                            <color key="textColor" white="0.87100821169999998" alpha="1" colorSpace="calibratedWhite"/>
+                                            <color key="highlightedColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                            <color key="shadowColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                                            <size key="shadowOffset" width="1" height="1"/>
+                                        </label>
+                                    </subviews>
+                                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                </view>
+                                <connections>
+                                    <outlet property="festivalDateLabel" destination="egW-B1-hOc" id="Nyi-xs-3Ed"/>
+                                    <outlet property="festivalLineupLabel" destination="GdH-5Y-iho" id="Ohs-m2-yAA"/>
+                                    <outlet property="festivalNameLabel" destination="xF6-we-Dfv" id="yX0-Tb-f3I"/>
+                                    <outlet property="festivalPriceLabel" destination="TXU-NA-MDc" id="hq0-sA-QrX"/>
+                                    <outlet property="flagView" destination="kxf-fb-TAi" id="THL-Pq-4zi"/>
+                                </connections>
+                            </tableViewCell>
+                        </prototypes>
+                        <connections>
+                            <outlet property="dataSource" destination="ZeR-Ef-1QT" id="5dU-Zz-YW7"/>
+                            <outlet property="delegate" destination="ZeR-Ef-1QT" id="Il6-lt-TGp"/>
+                        </connections>
+                    </tableView>
+                    <toolbarItems/>
+                    <navigationItem key="navigationItem" id="5fY-fd-foP">
+                        <nil key="title"/>
+                        <barButtonItem key="leftBarButtonItem" systemItem="search" id="pWV-TC-YaT">
+                            <connections>
+                                <action selector="onSearchPress:" destination="ZeR-Ef-1QT" id="fEW-s9-w11"/>
+                            </connections>
+                        </barButtonItem>
+                        <segmentedControl key="titleView" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="bar" selectedSegmentIndex="0" id="0IA-wv-kKG">
+                            <rect key="frame" x="72" y="7" width="175" height="30"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <segments>
+                                <segment title="All"/>
+                                <segment title="Favourites"/>
+                            </segments>
+                            <connections>
+                                <action selector="onSegmentedControlValueChange:" destination="ZeR-Ef-1QT" eventType="valueChanged" id="UEF-D8-s18"/>
+                            </connections>
+                        </segmentedControl>
+                        <barButtonItem key="rightBarButtonItem" title="Sort" id="ZfM-IT-wor">
+                            <connections>
+                                <action selector="onSortPress:" destination="ZeR-Ef-1QT" id="xvh-Iu-fxa"/>
+                            </connections>
+                        </barButtonItem>
+                    </navigationItem>
+                    <connections>
+                        <outlet property="searchDisplayController" destination="8VJ-eD-fEp" id="3yy-Ll-JCh"/>
+                        <segue destination="v8n-nS-3Wo" kind="push" identifier="FestivalSegue" id="KIx-NL-K8f"/>
+                        <segue destination="Cda-Zq-zf7" kind="push" identifier="SortingSegue" id="7TQ-wT-mBW"/>
+                    </connections>
+                </tableViewController>
+                <searchDisplayController searchResultsTitle="Festivals" id="8VJ-eD-fEp">
+                    <connections>
+                        <outlet property="delegate" destination="ZeR-Ef-1QT" id="kTe-rH-DpM"/>
+                        <outlet property="searchBar" destination="94v-0E-Uo9" id="5UE-qL-UZC"/>
+                        <outlet property="searchContentsController" destination="ZeR-Ef-1QT" id="92t-tB-Z2B"/>
+                        <outlet property="searchResultsDataSource" destination="ZeR-Ef-1QT" id="2A5-DO-j86"/>
+                        <outlet property="searchResultsDelegate" destination="ZeR-Ef-1QT" id="XrW-al-JLb"/>
+                    </connections>
+                </searchDisplayController>
+            </objects>
+            <point key="canvasLocation" x="308" y="280"/>
+        </scene>
+        <!--Sorting View Controller - Sort Festivals-->
+        <scene sceneID="cVK-W8-fRD">
+            <objects>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="lH8-Hr-4Hp" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <tableViewController id="Cda-Zq-zf7" customClass="SortingViewController" sceneMemberID="viewController">
+                    <tableView key="view" opaque="NO" clipsSubviews="YES" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" id="q0l-bd-ldo">
+                        <rect key="frame" x="0.0" y="64" width="320" height="416"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <prototypes>
+                            <tableViewCell contentMode="scaleToFill" selectionStyle="none" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="SortingCell" textLabel="4Dt-0V-bdT" style="IBUITableViewCellStyleDefault" id="XCK-tu-FdR">
+                                <rect key="frame" x="0.0" y="22" width="320" height="44"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                                <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                                    <rect key="frame" x="0.0" y="0.0" width="320" height="43"/>
+                                    <autoresizingMask key="autoresizingMask"/>
+                                    <subviews>
+                                        <label opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="left" text="Title" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="4Dt-0V-bdT">
+                                            <rect key="frame" x="10" y="0.0" width="300" height="43"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <fontDescription key="fontDescription" name="Chalkduster" family="Chalkduster" pointSize="20"/>
+                                            <color key="textColor" white="0.86496350364963503" alpha="1" colorSpace="calibratedWhite"/>
+                                            <color key="highlightedColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                        </label>
+                                    </subviews>
+                                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                </view>
+                            </tableViewCell>
+                        </prototypes>
+                        <connections>
+                            <outlet property="dataSource" destination="Cda-Zq-zf7" id="16i-xT-VLQ"/>
+                            <outlet property="delegate" destination="Cda-Zq-zf7" id="xQn-sA-baT"/>
+                        </connections>
+                    </tableView>
+                    <navigationItem key="navigationItem" title="Sort Festivals" id="Avc-Yh-jp5"/>
+                </tableViewController>
+            </objects>
+            <point key="canvasLocation" x="308" y="-286"/>
+        </scene>
+        <!--Festival View Controller-->
+        <scene sceneID="xdQ-AC-wrI">
+            <objects>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="q6P-HA-CXX" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <viewController id="v8n-nS-3Wo" customClass="FestivalViewController" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="ru3-aA-uxU">
+                        <rect key="frame" x="0.0" y="64" width="320" height="416"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="festival-detail-bg.png" id="h9Y-fu-UWk">
+                                <rect key="frame" x="0.0" y="-66" width="320" height="482"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="29 July 2012" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="12" id="lqH-sk-05g">
+                                <rect key="frame" x="60" y="15" width="191" height="21"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="Chalkduster" family="Chalkduster" pointSize="15"/>
+                                <color key="textColor" red="0.80839445153061229" green="0.67970690657564947" blue="0.1446882075481038" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="highlightedColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="shadowColor" red="1" green="0.84058117240860852" blue="0.60898521513442605" alpha="1" colorSpace="calibratedRGB"/>
+                                <size key="shadowOffset" width="1" height="1"/>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="center" text="Hurricane Festival" textAlignment="center" lineBreakMode="characterWrap" baselineAdjustment="alignBaselines" minimumFontSize="12" id="pHz-Al-yxN">
+                                <rect key="frame" x="20" y="25" width="280" height="46"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="Chalkduster" family="Chalkduster" pointSize="22"/>
+                                <color key="textColor" red="0.2904402752257611" green="0.69241645084594883" blue="0.81798070790816324" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="highlightedColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="shadowColor" red="0.74111254296103013" green="0.84721048123811427" blue="0.90776466836734693" alpha="1" colorSpace="calibratedRGB"/>
+                                <size key="shadowOffset" width="1" height="1"/>
+                            </label>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" textAlignment="center" id="kQO-3p-6Ha">
+                                <rect key="frame" x="0.0" y="93" width="320" height="323"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <string key="text">Red Hot Chili Peppers blink-182 Rise Against The Cure Incubus Pearl Jam The Kooks Snow Patrol Regina Spektor Florence + the Machine Beirut Kasabian Within Temptation The xx Metric The All-American Rejects Justice Editors M83 Mumford &amp; Sons Dropkick Murphys Garbage Mastodon Cypress Hill deadmau5 Bat for Lashes Wiz Khalifa Wolfmother Amon Tobin Elbow Skrillex My Morning Jacket James Morrison M. Ward Gossip Bombay Bicycle Club Noah And The Whale The Maccabees Lana Del Rey The Temper Trap Paul Kalkbrenner Chase &amp; Status Mac Miller dEUS Simple Minds The Vaccines Skream Ed Sheeran Milow Nneka DJ Fresh Die Antwoord Netsky Katy B Birdy Nam Nam X Selah Sue Ben Howard Agnes Obel Miles Kane Steve Aoki James Vincent McMorrow Noel Gallagher's High Flying Birds Perfume Genius Katzenjammer Anna Calvi Other Lives The Black Box Revelation Kitty, Daisy &amp; Lewis Jack White Kreayshawn Isbells Azari &amp; III Michael Kiwanuka Knife Party Eastern Conference Champions 't Hof van Commerce The Hickey Underworld School is Cool Alabama Shakes</string>
+                                <color key="textColor" red="0.76845503826530615" green="0.76845503826530615" blue="0.76845503826530615" alpha="1" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" name="STHeitiTC-Light" family="Heiti TC" pointSize="18"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="lU0-rP-GeJ">
+                                <rect key="frame" x="98" y="62" width="125" height="17"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="Chalkduster" family="Chalkduster" pointSize="10"/>
+                                <state key="normal" title="Open site in Safari">
+                                    <color key="titleColor" red="0.59209593684640227" green="0.59028661603433041" blue="0.62189094387755106" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <state key="highlighted">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="onURLPress:" destination="v8n-nS-3Wo" eventType="touchUpInside" id="soI-rS-0vh"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" red="0.10642538265306123" green="0.10642538265306123" blue="0.10642538265306123" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="IvS-2A-zFO"/>
+                    <connections>
+                        <outlet property="festivalDateLabel" destination="lqH-sk-05g" id="QeA-ry-qrC"/>
+                        <outlet property="festivalLineupTextView" destination="kQO-3p-6Ha" id="Cte-mM-fBE"/>
+                        <outlet property="festivalNameLabel" destination="pHz-Al-yxN" id="Pig-Hc-ci1"/>
+                    </connections>
+                </viewController>
+            </objects>
+            <point key="canvasLocation" x="676" y="280"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="Ur0-Yf-9Lt">
+            <objects>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="BUi-wi-Xcu" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <navigationController id="JYd-oH-Un3" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <simulatedStatusBarMetrics key="simulatedStatusBarMetrics" statusBarStyle="blackOpaque"/>
+                    <navigationBar key="navigationBar" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" id="1RO-3P-6p1">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="ZeR-Ef-1QT" kind="relationship" relationship="rootViewController" id="FJb-a2-zSM"/>
+                    </connections>
+                </navigationController>
+            </objects>
+            <point key="canvasLocation" x="104" y="197"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="festival-detail-bg.png" width="320" height="480"/>
+        <image name="flag-overlay.png" width="61" height="142"/>
+        <image name="german-flag.png" width="16" height="16"/>
+    </resources>
+    <classes>
+        <class className="AbstractCoreDataTableViewController" superclassName="UITableViewController">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/AbstractCoreDataTableViewController.h"/>
+        </class>
+        <class className="FestivalViewController" superclassName="UIViewController">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/FestivalViewController.h"/>
+            <relationships>
+                <relationship kind="outlet" name="festivalDateLabel" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="festivalLineupTextView" candidateClass="UITextView"/>
+                <relationship kind="outlet" name="festivalNameLabel" candidateClass="UILabel"/>
+            </relationships>
+        </class>
+        <class className="ListingCell" superclassName="UITableViewCell">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/ListingCell.h"/>
+            <relationships>
+                <relationship kind="outlet" name="festivalDateLabel" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="festivalLineupLabel" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="festivalNameLabel" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="festivalPriceLabel" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="flagView" candidateClass="UIImageView"/>
+            </relationships>
+        </class>
+        <class className="ListingTableViewController" superclassName="AbstractCoreDataTableViewController">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/ListingTableViewController.h"/>
+        </class>
+        <class className="SortingViewController" superclassName="UITableViewController">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/SortingViewController.h"/>
+        </class>
+    </classes>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar" statusBarStyle="blackTranslucent"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination"/>
+    </simulatedMetricsContainer>
+</document>

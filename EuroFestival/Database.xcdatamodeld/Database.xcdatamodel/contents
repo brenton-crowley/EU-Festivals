@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="databaseModel" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="1171" systemVersion="11E53" minimumToolsVersion="Xcode 4.1" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Country" representedClassName="Country" syncable="YES">
+        <attribute name="countryName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="flagURL" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="festivals" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Festival" inverseName="country" inverseEntity="Festival" syncable="YES"/>
+    </entity>
+    <entity name="Festival" representedClassName="Festival" syncable="YES">
+        <attribute name="countryName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="festivalDate" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="festivalLineup" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="festivalLocation" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="festivalName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="festivalPrice" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="isFavourited" attributeType="Boolean" defaultValueString="NO" syncable="YES"/>
+        <relationship name="country" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Country" inverseName="festivals" inverseEntity="Country" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Country" positionX="-29" positionY="189" width="128" height="90"/>
+        <element name="Festival" positionX="160" positionY="192" width="128" height="165"/>
+    </elements>
+</model>

@@ -1,0 +1,1443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>countries</key>
+	<dict>
+		<key>iceland</key>
+		<dict>
+			<key>festivals</key>
+			<array>
+				<dict>
+					<key>festivalName</key>
+					<string>Iceland Airwaves</string>
+					<key>festivalDate</key>
+					<date>2012-10-31T11:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Sigur Rós Patrick Wolf Phantogram Django Django Pornopop Friends Daughter Poliça Sóley Exitmusic Sykur Jamie N Commons Elena Tonra Samaris Úlfur Úlfur Prins Póló Song for Wendy The Vintage Caravan</string>
+					<key>festivalPrice</key>
+					<integer>87</integer>
+				</dict>
+			</array>
+			<key>countryName</key>
+			<string>Iceland</string>
+		</dict>
+		<key>bulgaria</key>
+		<dict>
+			<key>festivals</key>
+			<array>
+				<dict>
+					<key>festivalName</key>
+					<string>Spirit of Burgas</string>
+					<key>festivalDate</key>
+					<date>2012-08-03T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Korn Armin Van Buuren Busta Rhymes Chase &amp; Status Tinie Tempah Richie Hawtin Dubfire Mark Knight</string>
+					<key>festivalPrice</key>
+					<integer>62</integer>
+				</dict>
+			</array>
+			<key>countryName</key>
+			<string>Bulgaria</string>
+		</dict>
+		<key>greece</key>
+		<dict>
+			<key>festivals</key>
+			<array>
+				<dict>
+					<key>festivalName</key>
+					<string>Rockwave Festival</string>
+					<key>festivalDate</key>
+					<date>2012-07-01T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>The Prodigy Ozzy Osbourne Machine Head Paradise Lost The Stooges Everlast Nashville Pussy The Locos Nightstalker Planet of Zeus The Last Drive lucky funeral Peter Hook And The Light Unisonic Monovine GAD.</string>
+					<key>festivalPrice</key>
+					<integer>50</integer>
+				</dict>
+			</array>
+			<key>countryName</key>
+			<string>Greece</string>
+		</dict>
+		<key>croatia</key>
+		<dict>
+			<key>festivals</key>
+			<array>
+				<dict>
+					<key>festivalName</key>
+					<string>Garden Festival</string>
+					<key>festivalDate</key>
+					<date>2012-07-04T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Nicolas Jaar Crazy P Solomun Appleblim Kenny Dope Tiger &amp; Woods 6th Borough Project Mark E 2020 Soundsystem Greg Wilson Ben UFO Norman Jay James Holroyd</string>
+					<key>festivalPrice</key>
+					<integer>108</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Electric Elephant</string>
+					<key>festivalDate</key>
+					<date>2012-07-12T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Terranova Lone Michael Mayer Lowlife Karizma Andrew Weatherall Optimo Ivan Smagghe Ewan Pearson Justin Robertson DJ Deep Rebolledo Mike Simonetti Capracara Moodymanc Shumi Trevor Jackson Loud E Marcellus Pittman Unabombers Balearic Mike Chris Duckenfield Krysko Kelvin Andrews Sean Johnston Will TRAMP! Heels Of Love Feel My Bicep Nathan Gregory Wilkins</string>
+					<key>festivalPrice</key>
+					<integer>108</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Dimensions Festival</string>
+					<key>festivalDate</key>
+					<date>2012-09-06T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Little Dragon Gold Panda Nathan Fake Scuba Deadbeat Machine Drum Shackleton Pinch Joy Orbison Moodymann Kode9 Jimmy Edgar Theo Parrish Loefah Mala Fatima Floating Points Untold Ben Klock Synkro Surgeon Pariah Pangaea D-Bridge Iration Steppas Marcel Dettmann Motor City Drum Ensemble Andrew Weatherall Blawan Sigha Pearson Sound Roman Flugel Kyle Hall Levon Vincent Boddika Kassem Mosse Objekt Author Cassy Anstam Benji B Midland SP:MC Huxley Funkineven Locked Groove Ben UFO Dyed Soundorom Dub Phizix mungos hifi Ryan Elliott Alexander Nut Barker Paul Spymania Spaced Dimension Controller</string>
+					<key>festivalPrice</key>
+					<integer>174</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Soundwave Croatia</string>
+					<key>festivalDate</key>
+					<date>2012-07-19T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>De La Soul Fink Plaid Belleruche Teebs DJ Yoda Ghostpoet DJ Kentaro Hidden Orchestra Fatima Submotion Orchestra fLako Kidkanevil Illum Sphere Dr Syntax Jono McCleery Kutmah Om Unit Yungun Part Time Heroes Eliphino Gilla Anchorsong STAC Scrimshire Dele Sosimi Homecut Ariya Astrobeat Arkestra Funkineven Olivier DaySOUL Eska Kwes. Alexander Nut Mr Thing Chris Read Tanya Auclair Chunky DJ Cheeba OLUGBENGA dom servini RENEGADE BRASS BAND mouse outfit riot jazz Dannii Evans</string>
+					<key>festivalPrice</key>
+					<integer>126</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Outlook festival</string>
+					<key>festivalDate</key>
+					<date>2012-08-30T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Skream Gold Panda Fat Freddy&apos;s Drop Onra Souls of Mischief Distance Scuba The Beatnuts The Bug Zion Train Calibre disrupt Phaeleh Joker Goldie Akala Digital Mystikz Kromestar Teebee Pinch Rockwell Kryptic Minds Kode9 Kuedo Loefah Submotion Orchestra Calyx N-Type Jah Shaka Pangaea D-Bridge Girl Unit P Money Icicle Congo Natty Appleblim Marcus Intalex Iration Steppas Fantastic Mr Fox Quest Mosca Youngsta Zinc Blawan Illum Sphere George FitzGerald Addison Groove Roska Zed Bias Pearson Sound True Tiger Boddika Phife Dawg Tunnidge Author Eliphino J:Kenzo Mensah Mungo&apos;s HiFi SP:MC Commodo Moxie Ben UFO V.I.V.E.K. Oneman Dub Phizix Mickey Pearce The Heatwave Conscious Sounds Fis-T T Williams Darksky Obf Gdf</string>
+					<key>festivalPrice</key>
+					<integer>162</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Hideout Festival</string>
+					<key>festivalDate</key>
+					<date>2012-06-29T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Skrillex Four Tet Caribou Simian Mobile Disco Chase &amp; Status Skream Tiga High Contrast SBTRKT Sub Focus DJ Fresh Benga Borgore Ricardo Villalobos Camo &amp; Krooked Scuba Rustie Claude VonStroke Aeroplane Breakage DJ Hype Andy C Loco Dice Shy FX Kerri Chandler Ben Klock Toddla T Jack Beats DJ Marky Erol Alkan Julio Bashmore Friction Space Dimension Controller Damian Lazarus Citizen Brodinski Zinc RedLight Blawan Soul Clap Jamie Jones Art Department Pearson Sound Prins Thomas Artwork Nina Kraviz Maceo Plex Seth Troxler Kyle Hall Simon Baker Heidi Annie Mac Youngman Doorly Gavin Herlihy Jackmaster Eats Everything Ben UFO Ralph Lawson Stopmakingme Robert James Geddes Richy Ahmed Micheal Mayer Paul Woodford SUBB AN</string>
+					<key>festivalPrice</key>
+					<integer>109</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>INmusic festival</string>
+					<key>festivalDate</key>
+					<date>2012-06-28T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Franz Ferdinand The Cranberries Mando Diao Gogol Bordello Plan B Archie Bronson Outfit General Elektriks DJ Hype Dry The River Retro Stefson Tamikrest Fanga Stuttgart Online Ruiz Vlasta Popić Iness Mezel MARKIZ Human Woman Reptile Youth Valetudo Gorillaz Sound System</string>
+					<key>festivalPrice</key>
+					<integer>45</integer>
+				</dict>
+			</array>
+			<key>countryName</key>
+			<string>Croatia</string>
+		</dict>
+		<key>russia</key>
+		<dict>
+			<key>festivals</key>
+			<array>
+				<dict>
+					<key>festivalName</key>
+					<string>Afisha Picnic Festival</string>
+					<key>festivalDate</key>
+					<date>2012-07-21T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Franz Ferdinand The Drums Little Boots Аквариум Fuck Buttons Theophilus London</string>
+					<key>festivalPrice</key>
+					<integer>38</integer>
+				</dict>
+			</array>
+			<key>countryName</key>
+			<string>Russia</string>
+		</dict>
+		<key>latvia</key>
+		<dict>
+			<key>festivals</key>
+			<array>
+				<dict>
+					<key>festivalName</key>
+					<string>Positivus Festival</string>
+					<key>festivalDate</key>
+					<date>2012-07-20T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Keane Damien Rice Manic Street Preachers Friendly Fires Wild Beasts The Vaccines SBTRKT Skyforger Eskimo Givers Housse de Racket Niki &amp; The Dove King Charles Ewert and the Two Dragons Iļģi Lucy Rose Vondelpark Instrumenti Mimicry Sibyl Vane Cashier No. 9 Jamie N Commons alise joste Tramplīni Markas Palubenka The Sound Poets Audience Killers Zebra Island Elizabete Balčus</string>
+					<key>festivalPrice</key>
+					<integer>52</integer>
+				</dict>
+			</array>
+			<key>countryName</key>
+			<string>Latvia</string>
+		</dict>
+		<key>romania</key>
+		<dict>
+			<key>festivals</key>
+			<array>
+				<dict>
+					<key>festivalName</key>
+					<string>B&apos;estfest</string>
+					<key>festivalDate</key>
+					<date>2012-07-06T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Röyksopp Garbage Pulp Meshuggah Kreator Moonspell Tristania Booka Shade Skindred Milow Obituary The Qemists Selah Sue Turbo Caro Emerald Modestep Stanton Warriors Andy C Dope D.O.D. Trolley Snatcha Last Hope Pipes and Pints Mala Vita Regardless Of Me</string>
+					<key>festivalPrice</key>
+					<integer>64</integer>
+				</dict>
+			</array>
+			<key>countryName</key>
+			<string>Romania</string>
+		</dict>
+		<key>serbia</key>
+		<dict>
+			<key>festivals</key>
+			<array>
+				<dict>
+					<key>festivalName</key>
+					<string>Exit Festival</string>
+					<key>festivalDate</key>
+					<date>2012-07-12T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Guns N&apos; Roses New Order Wolfmother Duran Duran Hatebreed Erykah Badu Gossip Little Dragon Plan B Skindred Hercules And Love Affair Skream Suicidal Tendencies Felix Da Housecat Sub Focus Avicii Netsky Miss Kittin Borgore D.R.I. Thieves Like Us The Toy Dolls Street Dogs Richie Hawtin Laurent Garnier Sneaky Sound System Buraka Som Sistema Lone Goldie Claude VonStroke Luciano Totally Enormous Extinct Dinosaurs When Saints Go Machine DAT Politics Teengirl Fantasy Azari &amp; III Jimmy Edgar Knife Party Drumsound &amp; Bassline Smith Pariah Kenny Larkin Detachments Space Dimension Controller Brodinski Reboot Nikonn Sigha Baskerville Art Department George FitzGerald Addison Groove Benoit &amp; Sergio Maceo Plex Boemklatsch Jacques Lu Cont Citizens! The Tapeaters Franz &amp; Shape Benjamin Damage &amp; Doc Daneeka Maayan Nidam Jon Convex Robert Dietz NT89 TWR72 Eats Everything The Chain Locked Groove Trevino Riptide Mistajam Tobi Neumann MIke Mago Christian Strobe A Terrible Splendour Pretty Young Trouble</string>
+					<key>festivalPrice</key>
+					<integer>114</integer>
+				</dict>
+			</array>
+			<key>countryName</key>
+			<string>Serbia</string>
+		</dict>
+		<key>slovakia</key>
+		<dict>
+			<key>festivals</key>
+			<array>
+				<dict>
+					<key>festivalName</key>
+					<string>Pohoda Festival</string>
+					<key>festivalDate</key>
+					<date>2012-07-05T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>The Kooks Yann Tiersen Kasabian Two Door Cinema Club Bat for Lashes White Lies Elbow Lou Reed Caribou Emilíana Torrini The Horrors Chase &amp; Status Orbital Public Enemy Warpaint Guillemots Sebastian Aloe Blacc The Asteroids Galaxy Tour I Blame Coco The Heavy Chew Lips Juju Villagers Anna Calvi Movits! Eskmo Tata Bojs Gemma Hayes Kitty, Daisy &amp; Lewis Totally Enormous Extinct Dinosaurs Portico Quartet Emika Femi Kuti Givers Dry The River Hypnotic Brass Ensemble Lützenkirchen Screaming Females Bomba Estéreo Submotion Orchestra Floex Naive New Beaters S.C.U.M The Victorian English Gentlemens Club Puding Pani Elvisovej Jana Kirschner Slobodná Európa Amatorski Hjálmar King Krule Jenna G Les Trucs The Plastic People of the Universe Little Roy Bonus Billy Barman Longital DJ Die Čokovoko Čad Dorota Nvotová Orquesta Típica Fernández Fierro The Ills Talkshow Karpatské chrbáty Fixers Banda Stealing Sheep NaPszykłat Rido Owiny Sigoma Band Blue Motion Fiordmoss Zapaska Susanne Blech Michael Kocáb Fever Fever Hrana Jelly Belly Rumenige feat. Loktibrada Iva Bittová &amp; Čikori The Cellmates Sofrito afterPhurikane Teória odrazu The Alaev Family The Maggie&apos;s Marshmallows Hugo Čáves Orchestra Panáčik DJ Matwä Batatimba Paul McCartney&apos;s Liverpool Oratorio &amp; Lúčnica mangrove steelband jamaican legends</string>
+					<key>festivalPrice</key>
+					<integer>85</integer>
+				</dict>
+			</array>
+			<key>countryName</key>
+			<string>Slovakia</string>
+		</dict>
+		<key>czech</key>
+		<dict>
+			<key>festivals</key>
+			<array>
+				<dict>
+					<key>festivalName</key>
+					<string>Prague City Festival</string>
+					<key>festivalDate</key>
+					<date>2012-06-29T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>blink-182 The All-American Rejects Lostprophets Simple Plan New Order Amon Tobin Hadouken! Black Stone Cherry Shantel Señor Coconut Dubioza Kolektiv Clou Street Drum Corps Cartonnage The Pooh Eddie Stoilow</string>
+					<key>festivalPrice</key>
+					<integer>40</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Rock for People</string>
+					<key>festivalDate</key>
+					<date>2012-07-03T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>The Kooks Franz Ferdinand The Prodigy Crystal Castles Enter Shikari Faith No More Flogging Molly Two Door Cinema Club The Subways August Burns Red Skrillex Orbital Refused Example I Killed the Prom Queen Peter Doherty H2O The Asteroids Galaxy Tour Horkýže Slíže Selah Sue Vypsaná fiXa Irie Révoltés Anna Calvi Mňága a Žďorp Tata Bojs Dreadzone 3 Feet Smaller Tomáš Klus Čechomor Support Lesbiens Lionheart Monkey Business Aneta Langerová Mig 21 Charlie Straight Mandrage Lenka Dusilová The Computers David Koller The Inspector Cluzo Scarred By Beauty Keko Yoma The Octopussys Maison du Malheur Miro Žbirka</string>
+					<key>festivalPrice</key>
+					<integer>64</integer>
+				</dict>
+			</array>
+			<key>countryName</key>
+			<string>Czech Republic</string>
+		</dict>
+		<key>netherlands</key>
+		<dict>
+			<key>festivals</key>
+			<array>
+				<dict>
+					<key>festivalName</key>
+					<string>Bospop</string>
+					<key>festivalDate</key>
+					<date>2012-07-07T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Opeth Alanis Morissette Seether Wolfmother Lenny Kravitz Gavin DeGraw Chris Cornell Patti Smith The Cult Tom Jones The Waterboys Los Lobos NeedToBreathe Beth Hart Los Lonely Boys Kenny Wayne Shepherd DeWolff Ed Kowalczyk Vintage Trouble The Union Adrenaline Mob Paceshifters Trombone Shorty &amp; Orleans Avenue Powerslave Black-Bone Parris Bow Ya Top The Dead Revils</string>
+					<key>festivalPrice</key>
+					<integer>150</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Mysteryland Festival</string>
+					<key>festivalDate</key>
+					<date>2012-08-25T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>TBA</string>
+					<key>festivalPrice</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Paaspop</string>
+					<key>festivalDate</key>
+					<date>2012-04-06T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>In Flames Within Temptation Korpiklaani The Wombats Finntroll Simian Mobile Disco Accept Terror Enslaved Selah Sue Racoon Textures Golden Earring Karma To Burn Mauro Picotto Guus Meeuwis Kane TrollfesT Heideroosjes DI-RECT Peter Pan Speedrock Emalkay Triggerfinger Pulled Apart By Horses The Devil&apos;s Blood De Dijk The Subs Funkerman Kyteman The Black Atlantic Bingo Players Rowwen Hèze Erick E Drop The Lime Rival Sons Chris Liebing Hell Chef&apos;Special Hardwell Gers Pardoel Nobody Beats the Drum School is Cool Mala Vita Kutz The Magician The Inspector Cluzo Will And The People Conforce DJ Hatcha The Pine Box Boys Bassjackers Steve Rachmad Sandro Silva Jungle By Night Lucien Foort R3hab Vanderbuyst Villa Enge Buren BZB Bobby Burns La Fuente Riptide Candybar Planet Note to Amy Soul Sinners Apster JoeySuki Klaas van der Eerden Gomes Joost Van Bellen Brutuzz Piro Dearworld Delivio Reavon Leon van der Zanden Michael Mendoza Umbilical Brothers PURESANG Sick Individuals Dannic MC Gee Memphis Maniacs Paul Zerdin DJ Blondt Crazy Piano&apos;s De Flowfabriek Aaron Gill 80&apos;s verantwoord 90&apos;s Now!</string>
+					<key>festivalPrice</key>
+					<integer>89</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>PinkPop</string>
+					<key>festivalDate</key>
+					<date>2012-05-26T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Linkin Park The Cure Keane Mumford &amp; Sons The Hives Mastodon Soundgarden The Ting Tings The Wombats James Morrison Bombay Bicycle Club Miike Snow Paul Kalkbrenner Chase &amp; Status Blood Red Shoes The Specials Anouk Bruce Springsteen &amp; The E Street Band Herbert Grönemeyer The Asteroids Galaxy Tour Sharon Jones and the Dap-Kings Afghan Whigs Ben Howard Racoon Seasick Steve The BossHoss Babylon Circus Moss Hungry Kids of Hungary Rival Sons Jonathan Jeremiah Chef&apos;Special Gers Pardoel Will And The People Major Tom Kyuss Lives! Serena Pryne The Kyteman Orchestra</string>
+					<key>festivalPrice</key>
+					<integer>160</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Lowlands</string>
+					<key>festivalDate</key>
+					<date>2012-08-17T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Foo Fighters Bloc Party Feist Kasabian The xx The Black Keys Enter Shikari Skrillex Eagles Of Death Metal Miike Snow Me First And The Gimme Gimmes Refused Ed Sheeran Ane Brun Alborosie tUnE-yArDs Spinvis Ben Howard James Vincent McMorrow Movits! Letlive Triggerfinger Mark Lanegan Band Django Django La Pegatina Holy Other Dope D.O.D. Âme Blaudzun Henrik Schwarz Howler Les Ramoneurs de Menhirs Benji B Dixon Smod Willy Moon KREMA KAWA Kees van Hondt De Avonduren The Kyteman Orchestra</string>
+					<key>festivalPrice</key>
+					<integer>185</integer>
+				</dict>
+			</array>
+			<key>countryName</key>
+			<string>Netherlands</string>
+		</dict>
+		<key>luxembourg</key>
+		<dict>
+			<key>festivals</key>
+			<array>
+				<dict>
+					<key>festivalName</key>
+					<string>Food For Your Senses Festival</string>
+					<key>festivalDate</key>
+					<date>2012-06-25T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Talco Supershirt Eskimo Callboy Sun Glitters Talking To Turtles Hills Have Eyes Till We Drop Phrasenmäher Lys Blind Freddy Project 54 de Läb The Gambling Badgers Falling Promises Adoptees t-the boss Lawyers &apos;n&apos; money</string>
+					<key>festivalPrice</key>
+					<integer>40</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Rock A Field Festival</string>
+					<key>festivalDate</key>
+					<date>2012-06-23T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>The Kooks Snow Patrol Billy Talent Lostprophets Justice Motörhead Mumford &amp; Sons Dropkick Murphys Godsmack Mastodon The Kills deadmau5 Two Door Cinema Club Biffy Clyro Clueso Chase &amp; Status Mac Miller Casper Borgore Modestep Triggerfinger Rival Sons Dirtyphonics Mutiny On The Bounty Angel At My Table</string>
+					<key>festivalPrice</key>
+					<integer>86</integer>
+				</dict>
+			</array>
+			<key>countryName</key>
+			<string>Luxembourg</string>
+		</dict>
+		<key>norway</key>
+		<dict>
+			<key>festivals</key>
+			<array>
+				<dict>
+					<key>festivalName</key>
+					<string>Øya Festival</string>
+					<key>festivalDate</key>
+					<date>2012-07-07T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Björk Florence + the Machine Bon Iver Feist The Black Keys The Stone Roses St. Vincent Best Coast Mazzy Star Refused Sondre Lerche Ceremony Baroness Ane Brun SBTRKT Frank Ocean First Aid Kit OFWGKTA Afghan Whigs Nicolas Jaar Lee &quot;Scratch&quot; Perry John Maus Yelawolf Chromatics Thurston Moore Cloud Nothings Max Romeo ASAP Rocky The War On Drugs Here We Go Magic The Congos Bob Mould Lindstrøm The Devil&apos;s Blood Susanne Sundfør Dam-Funk Karpe Diem Odd Future Oberhofer Charles Bradley Papa M Friends Odd Nordstoga Lars Vaular Siri Nilsen Jonas Alaska Factory Floor Juan Atkins Todd Terje Mathias Eick Susanna Årabrot Tamikrest Kindness Young Dreams Nekromantheon Casa Murilo Mikhael Paskalev Bushman&apos;s Revenge Håkon Kornstad Death By Unga Bunga Amund Maarud Sweden Martin Hagfors Maya Vik Hedvig Mollestad Trio Haim El Doom &amp; The Born Electric HighasaKite Reptile Youth Sudan dudan Beglomeg Mirror Lakes The Good, The Bad &amp; The Zugly Heyerdahl Die A Legend</string>
+					<key>festivalPrice</key>
+					<integer>280</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Hove Festival</string>
+					<key>festivalDate</key>
+					<date>2012-06-26T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Rise Against The Shins Beirut The xx Lostprophets M83 Dropkick Murphys Lamb of God Snoop Dogg Wiz Khalifa August Burns Red Skrillex My Morning Jacket M. Ward DevilDriver Lana Del Rey The Horrors Toro Y Moi Mac Miller Nero Ed Sheeran Real Estate Envy Band of Skulls Bigbang Kendrick Lamar Flux Pavilion White Denim Male Bonding Active Child Summer Camp Totally Enormous Extinct Dinosaurs Labrinth Iceage Kreayshawn Django Django Azari &amp; III Michael Kiwanuka Niki &amp; The Dove Knife Party Team me Lemâitre Emeli Sandé Fred Falke Maya Jane Coles Jonas Alaska Bart B More Bjørn Torske Brandt Brauer Frick Todd Terje Maribel Sirkus Eliassen Nekromantheon A-Laget LidoLido Mikhael Paskalev Millions Overthrow Philco Fiction Eye Emma Jedi Dilillis Kriminell Kunst Kaveh HighasaKite Honeytraps Disaster In The Universe Eye Of Horus Simmy Man</string>
+					<key>festivalPrice</key>
+					<integer>336</integer>
+				</dict>
+			</array>
+			<key>countryName</key>
+			<string>Norway</string>
+		</dict>
+		<key>finland</key>
+		<dict>
+			<key>festivals</key>
+			<array>
+				<dict>
+					<key>festivalName</key>
+					<string>Sonisphere Festival Finland</string>
+					<key>festivalDate</key>
+					<date>2012-07-06T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Metallica Machine Head Amorphis Gojira Hardcore Superstar Ghost</string>
+					<key>festivalPrice</key>
+					<integer>79</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Ilosaarirock Festival</string>
+					<key>festivalDate</key>
+					<date>2012-07-13T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Children of Bodom The xx Apocalyptica The Hives Against Me! 65daysofstatic Amorphis Antony and the Johnsons Stam1na Insomnium Mayhem Nasum Modeselektor PMMP Goran Bregović Swallow The Sun Black Star Viikate First Aid Kit Pariisin Kevät D-A-D Lapko Regina Chisu Richie Spice Herra Ylppö &amp; Ihmiset Paleface Tanya Stephens Haloo Helsinki! Pulled Apart By Horses Reckless Love Jare &amp; VilleGalle Enochian Crescent Terveet Kädet Michael Monroe Rival Sons French Films Oranssi Pazuzu Riistetyt Fun The Valkyrians Kauko Röyhkä &amp; Narttu IIRIS Stig Tundramatiks Elokuu Nerve End Liimanarina The Irrationals GG Caravan LAs Eva &amp; Manu The Splits Vapaa Maa Jukka Kiesi Räjäyttäjät Murheenlaakso Goran Bregović &amp; His Wedding and Funeral Orchestra Kuningassoundi Rentoshow The Three Smiths Show: Gracias, Noah Kin &amp; Ekow Antony and the Johnsons &amp; Joensuu City Orchestra</string>
+					<key>festivalPrice</key>
+					<integer>75</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Tuska Open Air Metal Festival</string>
+					<key>festivalDate</key>
+					<date>2012-06-29T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Megadeth Sonata Arctica Apocalyptica Lamb of God Trivium Behemoth Sabaton Hatebreed Edguy Suicide Silence Ministry Napalm Death Exodus Mokoma Insomnium Baroness Overkill Anaal Nathrakh Swallow The Sun Arcturus Alcest Animals as Leaders Textures SuidAkrA Amoral Saint Vitus Horna Skeletonwitch One Morning Left Metsatöll Victims Profane Omen Lock Up Demigod Huoratron Afgrund The Man-Eating Tree Unkind Battle Beast Demonic Death Judge For the Imperium Vorum Winterwolf Inferia A.R.G. Corpsessed Bob Malmström Oddland Final Assault Evil Lyn Jess and the Ancient Ones Ramin kuntopolku</string>
+					<key>festivalPrice</key>
+					<integer>115</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Flow Festival</string>
+					<key>festivalDate</key>
+					<date>2012-08-08T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Björk Yann Tiersen Bon Iver Feist The Black Keys Lykke Li Flying Lotus Four Tet Caribou Miike Snow St. Vincent Swans Ane Brun Saint Etienne Frank Ocean Fennesz Nicolas Jaar Bobby Womack Hudson Mohawke Monolake Richie Hawtin ASAP Rocky The War On Drugs Horace Andy Oneohtrix Point Never Bola Jukka Poika Lindstrøm Pepe Deluxé Baba Zula Pinch Charles Bradley Theo Parrish Friends Kuusumun Profeetta French Films Africa Hitech Korallreven A Winged Victory For The Sullen Burning Hearts Huoratron Nicole Willis and The Soul Investigators Orchestre Poly-Rythmo de Cotonou Nina Kraviz Tamikrest Gracias Daniele Baldelli Siinai Black Twig Kolektif istanbul Shangaan Electro Verneri Pohjola Quartet Bendagram Mika Snickars Bongo Rock Jason Moran &amp; The Bandwagon Beverly Girls roberto rodriquez we love helsinki Arch of Neo Unela murat meric</string>
+					<key>festivalPrice</key>
+					<integer>160</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Ruisrock Festival</string>
+					<key>festivalDate</key>
+					<date>2012-06-06T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Nightwish Bloc Party Children of Bodom Apocalyptica Explosions in the Sky The Mars Volta The Cardigans Two Door Cinema Club Pulp Metronomy Stam1na Refused Apulanta Suicidal Tendencies PMMP Veronica Maggio Eppu Normaali Scandinavian Music Group Jimmy Cliff Mustasch Pariisin Kevät Regina Fintelligens Chisu Herra Ylppö &amp; Ihmiset Von Hertzen Brothers Notkea Rotta Michael Monroe Rival Sons French Films Burning Hearts Ewert and the Two Dragons Huoratron Kauko Röyhkä &amp; Narttu Robin Gracias Zebra and Snake Stig Pasa Elokuu Stockers! Black Twig Ruudolf &amp; Karri Koira GG Caravan Antero Lindgren Jukka Poika &amp; Sound Explosion Band Mikko Joensuu</string>
+					<key>festivalPrice</key>
+					<integer>115</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Provinssirock Festival</string>
+					<key>festivalDate</key>
+					<date>2012-06-15T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Rise Against Nightwish Snow Patrol Slayer Pendulum Billy Talent Justice M83 Mastodon Bat for Lashes Amorphis The Gaslight Anthem Eagles Of Death Metal Chase &amp; Status Stam1na Example PMMP Viikate Eläkeläiset Steve Aoki Pariisin Kevät Ghost Brigade Chisu Feed Me Modestep SARA Risto WestBam Reckless Love Andy C OFF! Muffler Michael Monroe Joey Beltram Ewert and the Two Dragons Freeman Kauko Röyhkä &amp; Narttu Relentless Rico Tubbs Hebosagil IIRIS Elokuu The Irrationals Kairon; IRSE! Kyuss Lives! Eliot Ness Foreing Beggars Jukka Poika &amp; Sound Explosion Band Puolustusvoimien Varusmiessoittokunta feat. Pete Parkkonen</string>
+					<key>festivalPrice</key>
+					<integer>115</integer>
+				</dict>
+			</array>
+			<key>countryName</key>
+			<string>Finland</string>
+		</dict>
+		<key>italy</key>
+		<dict>
+			<key>festivals</key>
+			<array>
+				<dict>
+					<key>festivalName</key>
+					<string>Heineken Jammin Festival</string>
+					<key>festivalDate</key>
+					<date>2012-07-05T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Red Hot Chili Peppers The Cure Evanescence The Prodigy Crystal Castles Lostprophets Enter Shikari New Order Seether Pitbull Chase &amp; Status Noel Gallagher&apos;s High Flying Birds The Parlotones</string>
+					<key>festivalPrice</key>
+					<integer>172</integer>
+				</dict>
+			</array>
+			<key>countryName</key>
+			<string>Italy</string>
+		</dict>
+		<key>ireland</key>
+		<dict>
+			<key>festivals</key>
+			<array>
+				<dict>
+					<key>festivalName</key>
+					<string>Forbidden Fruit</string>
+					<key>festivalDate</key>
+					<date>2012-06-02T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Death Cab for Cutie Beirut Wilco Andrew Bird New Order Friendly Fires The Rapture Mazzy Star Atlas Sound The Bloody Beetroots Booka Shade Liars Death In Vegas Modeselektor Leftfield Real Estate Holy Fuck Chairlift The Field Grimes Austra James Vincent McMorrow Chromatics Bear In Heaven Cloud Nothings Field Music Actress Lower Dens Django Django Hypnotic Brass Ensemble Purity Ring Peaking Lights Republic of Loose The Cast Of Cheers Factory Floor Julia Holter The Magician To Kill a King MMOTHS R.S.A.G. We Cut Corners Reid le galaxie Kool Thing Autumn Owls windings Daithi Toby Kaar White Collar Boy</string>
+					<key>festivalPrice</key>
+					<integer>115</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Electric Picnic</string>
+					<key>festivalDate</key>
+					<date>2012-08-31T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>The Killers The Cure Sigur Rós Crystal Castles The xx Hot Chip Grizzly Bear The Roots Bat for Lashes Elbow The Maccabees The Horrors Metronomy Squarepusher Orbital Patti Smith Grandaddy Tindersticks Ed Sheeran Roots Manuva Glen Hansard SBTRKT Richard Hawley Cranes Bell X1 The Jezabels Christy Moore John Digweed Michael Kiwanuka Gavin Friday Baxter Dury Solar Bears Lanterns On The Lake Jonathan Wilson Staff Benda Bilili Little Roy Milagres Alabama Shakes Fatoumata Diawara Dublin Gospel Choir In Tua Nua Eagle And The Worm Willis Earl Beal Land Lovers Van Dykes Park</string>
+					<key>festivalPrice</key>
+					<integer>230</integer>
+				</dict>
+			</array>
+			<key>countryName</key>
+			<string>Ireland</string>
+		</dict>
+		<key>denmark</key>
+		<dict>
+			<key>festivals</key>
+			<array>
+				<dict>
+					<key>festivalName</key>
+					<string>Skive Festival</string>
+					<key>festivalDate</key>
+					<date>2012-05-30T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Linkin Park The Offspring Robyn The Ting Tings Calvin Harris Scooter The Asteroids Galaxy Tour Raunchy Medina D-A-D Aura Dione Rasmus Seebach L.O.C. Malk De Koijn Bingo Players Nik &amp; Jay Suspekt TV-2 Magtens Korridorer I Got You on Tape Kato Red Warszawa Pete Tong Flip Swanky Tunes Morten Breum Poul Krebs Nabiha Christopher Johnny Madsen Darkness Falls Jorgensen Xander Kidd Rune RK Ankerstjerne Tim Christensen And The Damn Crystals Ulige Numre Wafande The Eclectic Moniker Alexander Brown Von Dü Flødeklinikken ELOQ Christian Amby Lukas Graham Aba &amp; Simonsen Freja Loeb Jay Adams Faustix Mike Hawkins Daxtar Mike Hawkins &amp; Pablo Oliveros Abdullah S Barbara Moleko Digital Magic Kongsted LP Støvring Stunngunn Mikkel Gunvad Pablo Oliveros Hipsterious</string>
+					<key>festivalPrice</key>
+					<integer>140</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Copenhell</string>
+					<key>festivalDate</key>
+					<date>2012-06-15T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Marilyn Manson Slayer Killswitch Engage Lamb of God Trivium Mastodon Korpiklaani Anthrax Meshuggah Soulfly Gojira Immortal All Shall Perish Saxon Dying Fetus Brutal Truth Skeletonwitch Svartsot Red Warszawa The Interbeing Barricade The Kandidate Rising Cerekloth Mordax Redwood Hill</string>
+					<key>festivalPrice</key>
+					<integer>96</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Roskilde</string>
+					<key>festivalDate</key>
+					<date>2012-07-05T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>The Cure Björk The Shins Bon Iver Bruce Springsteen M83 The Roots Mew Wiz Khalifa Machine Head Behemoth Santigold DevilDriver Friendly Fires Suicide Silence Paul Kalkbrenner Sage Francis Mac Miller Janelle Monáe Refused Nasum Pretty Lights The Vaccines Modeselektor Baroness The Cult H2O Bowerbirds Trash Talk First Aid Kit Alison Krauss Amadou &amp; Mariam Royce Da 5&apos;9&quot; Big K.R.I.T. tUnE-yArDs Evidence Hank Williams III Crowbar Yelawolf Perfume Genius The Low Anthem Of the Wand and the Moon ASAP Rocky The Abyssinians Shlohmo Today Is The Day Warbringer Weedeater Martyn Nils Frahm Red Fang Jonathan Johansson Commix Criolo Adrian Lux Macklemore Jack White AraabMUZIK Spleen United Django Django Sam Amidon Penguin Prison Rockwell Rubén Blades Sivert Høyem Dry The River Malk De Koijn Punch Brothers R. Stevie Moore Niki &amp; The Dove Bomba Estéreo 120 Days Apparatjik Boubacar Traoré Liturgy Bellowhead Daughter Magtens Korridorer Toddla T Analogik Team me French Films Hospitality Bernhoft I Got You on Tape Korallreven Icona Pop Causa Sui Kimmo Pohjonen Cerebral Ballzy Geoffrey Gurrumul Yunupingu Clock Opera Lee Ranaldo Celso Piña Mikal Cronin Blondes Dennis Christopher Mutiny On The Bounty Staff Benda Bilili Blitz the Ambassador Addison Groove Dominique Young Unique Ars Nova Touchy Mob Kellermensch Julia Holter Spector ter haar The Megaphonic Thrift Spoek Mathambo Alabama Shakes Terakaft Baloji Dead Skeletons Orquesta Típica Fernández Fierro Rover Indians Ghostigital Talk Normal Bäddat för trubbel Elektro Guzzi Larsen &amp; Furious Jane Specktors Kesi Rangleklods Dalglish Sleng Fritjof &amp; Pikanen Danyel Waro Sandra Kolstad DJ Static Jakob Bro Ulige Numre F.O.O.L. Vaagsbygd Handy Grieves and Budo Jesse Voorn Kúra Kriget Son Palenque Beastie Respond ELOQ Papir Cold Specks The Barons of Tang Sprutbass Deathcrush Helsinki Poetry Cerekloth Girlseeker Lars Winnerback Maïa Vidal Jupiter Bokonji and Okwess International Ryan Lewis Mohammad Reza Mortazavi Soffie Viemose Dawda Jobarteh The Echo Vamper Northern Structures Rum 37 Julius Sylvest Nelson Can Mash Up International Dig &amp; Mig Oneothrix Point Never Les Freres Smith Linkoban Samuli Kosminen Jørgen Teller &amp; The Empty Stairs Shiny Darkly The Alaev Family Copenheavy Mathilde Savery Governor of Alaska The Beardy Durfs The Frederik Majovci Khalazer Klumben &amp; Raske Penge SLOWOLF Sam O&apos;Neall Dangers Of The Sea War For Youth El Paraiso Ensemble</string>
+					<key>festivalPrice</key>
+					<integer>240</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Northside Festival</string>
+					<key>festivalDate</key>
+					<date>2012-06-15T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>The Kooks Snow Patrol Kasabian The xx Justice Mumford &amp; Sons Garbage The Hives Bat for Lashes The Gaslight Anthem The Stone Roses Marina &amp; the Diamonds Bombay Bicycle Club Noah And The Whale Eagles Of Death Metal James Blake Little Dragon Kashmir The Asteroids Galaxy Tour Oh Land Miles Kane Noel Gallagher&apos;s High Flying Birds Dúné When Saints Go Machine Turboweekend Malk De Koijn Choir Of Young Believers Emeli Sandé Lukas Graham Freja Loeb</string>
+					<key>festivalPrice</key>
+					<integer>147</integer>
+				</dict>
+			</array>
+			<key>countryName</key>
+			<string>Denmark</string>
+		</dict>
+		<key>poland</key>
+		<dict>
+			<key>festivals</key>
+			<array>
+				<dict>
+					<key>festivalName</key>
+					<string>Woodstock Festival Poland</string>
+					<key>festivalDate</key>
+					<date>2012-08-02T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Anti-Flag happysad Machine Head Sabaton Damian Marley Ministry The Darkness Farben Lehre Vavamuffin The Analogs Asian Dub Foundation Hardcore Superstar The Qemists Elektryczne Gitary Shantel Marika Leniwiec Dritte Wahl Dubska Zielone Żabki Dubioza Kolektiv Pajujo My Riot Carrantuohill Gooral Kamil Bednarek Piotr Bukartyk Mariusz Lubomski Plagiat 199 Radical News Duan Nocna Zmiana Bluesa Omkara Bez Jahzgh Papa Musta KlezmaFour Thepetebox Qulturka PaRasSol Marcin Wyrostek Swobodna Marek Makaron Trio Offensywa Amunition Natalia Przybysz Toi Luzja Kasprzycki Band ZgredyBillies Kwartet Yorgi Yerlam Tomasz kocko Spokoarmia</string>
+					<key>festivalPrice</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Sonisphere Festival Poland</string>
+					<key>festivalDate</key>
+					<date>2012-05-10T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Metallica Machine Head Black Label Society Gojira Hunter Acid Drinkers Luxtorpeda CINEMON</string>
+					<key>festivalPrice</key>
+					<integer>50</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Coke Live Music Festival</string>
+					<key>festivalDate</key>
+					<date>2012-08-11T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>The Killers Placebo The Roots</string>
+					<key>festivalPrice</key>
+					<integer>53</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Open&apos;er Festival</string>
+					<key>festivalDate</key>
+					<date>2012-07-04T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Bloc Party Franz Ferdinand Björk Bon Iver The xx The Mars Volta Justice M83 Mumford &amp; Sons New Order The Kills Bat for Lashes Wiz Khalifa The Ting Tings Gogol Bordello Yeasayer The Maccabees Friendly Fires Orbital Toro Y Moi Public Enemy Janelle Monáe Cool Kids Of Death Nosowska Soldiers of Jah Army SBTRKT Jamie Woon Fisz Emade Major Lazer Kapela ze wsi Warszawa Julia Marcell Dry The River Krzysztof Penderecki Pablopavo Ul/Kr</string>
+					<key>festivalPrice</key>
+					<integer>98</integer>
+				</dict>
+			</array>
+			<key>countryName</key>
+			<string>Poland</string>
+		</dict>
+		<key>switzerland</key>
+		<dict>
+			<key>festivals</key>
+			<array>
+				<dict>
+					<key>festivalName</key>
+					<string>Openair Frauenfeld</string>
+					<key>festivalDate</key>
+					<date>2012-07-06T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Drake 50 Cent Nas Wiz Khalifa Ludacris Mos Def K.I.Z. Jedi Mind Tricks Sean Paul Rick Ross Lauryn Hill J. Cole Mac Miller Prinz Pi Tinie Tempah Kollegah Sido Dilated Peoples Samy Deluxe Hilltop Hoods Absolute Beginner La Coka Nostra Beenie Man Yelawolf Favorite ASAP Rocky Marsimoto Looptroop Rockers SOJA DJ Premier Lords of the Underground Max Herre Macklemore Sexion d&apos;Assaut Lady Saw Benjie Royce Da 5&apos;9 DJ Tomekk Phenomden RAF 3.0 liricas analas Terry Lynn Famara Steff La Cheffe Dabu Fantastic lo &amp; leduc DJ Scratch DJ Craft Ryan Lewis DJ Ca$h Money Dub Spencer Young Guru Beginner Soundsystem The Trance Hill</string>
+					<key>festivalPrice</key>
+					<integer>157</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Gurtenfestival</string>
+					<key>festivalDate</key>
+					<date>2012-07-12T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Snow Patrol Norah Jones The Roots Lenny Kravitz The Subways Digitalism Santigold Parov Stelar Friendly Fires Edward Sharpe &amp; The Magnetic Zeros Frank Turner Example Jan Delay Nneka Xavier Rudd Bonaparte Birdy Nam Nam Noel Gallagher&apos;s High Flying Birds Other Lives Kraftklub Fritz Kalkbrenner Leningrad Cowboys Boy Züri West Dry The River Saalschutz Dick Brave &amp; the Backbeats Thees Uhlmann Patent Ochsner Stress Don Rimini Yodelice Yuri Plüsch liricas analas Anna Aaron Death By Chocolate Eldorado FM Knackeboul Boys On Pills Tim &amp; Puma Mimi Nau lo &amp; leduc James Gruntz Bastian Baker Labrador City copy &amp; paste The Clowns Webba Baum Pablopolar ABU Domi Chansorn Monophon Sir Joe Al Pride Traktorkestar Chantemoiselle YOKKO Gorillaz Sound System The Birthday Girls Tastatur</string>
+					<key>festivalPrice</key>
+					<integer>166</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Sonisphere Festival Switzerland</string>
+					<key>festivalDate</key>
+					<date>2012-05-30T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Metallica Slayer Motörhead Mastodon Eluveitie Gojira</string>
+					<key>festivalPrice</key>
+					<integer>144</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Open Air Gampel</string>
+					<key>festivalDate</key>
+					<date>2012-08-16T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Placebo Foo Fighters All Time Low Cypress Hill Beatsteaks Nada Surf Bush Eagles Of Death Metal Deichkind Chiddy Bang Mark Lanegan Bassnectar Silbermond Frittenbude The Joy Formidable T. Mills Twin Atlantic Stefanie Heinzmann Triggerfinger Mark Lanegan Band Dick Brave &amp; the Backbeats Patent Ochsner Stress Alex Clare The Beauty of Gemina QL Famara The bianca Story Del Castillo Huck Finn Bastian Baker Dick Brave</string>
+					<key>festivalPrice</key>
+					<integer>167</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Open Air St. Gallen</string>
+					<key>festivalDate</key>
+					<date>2012-06-28T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Incubus The Kooks Florence + the Machine The Mars Volta Mumford &amp; Sons deadmau5 Two Door Cinema Club Bat for Lashes Wolfmother Die Toten Hosen Paolo Nutini Gossip Noah And The Whale Paul Kalkbrenner dEUS Danko Jones Casper Ed Sheeran Sebastian Frittenbude Broilers Buraka Som Sistema Katzenjammer Modestep Kitty, Daisy &amp; Lewis Boy Züri West Stress Rival Sons Azealia Banks Phenomden Howler frantic Afenginn Mama Rosin 7 Dollar Taxi Labrador City Parov Stelar Band Caligola Kraftclub Brandy Butler &amp; the Fonxionaires hecht Wyfelder Luusbuebe Painhead Markus Krebs</string>
+					<key>festivalPrice</key>
+					<integer>160</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Greenfield Festival</string>
+					<key>festivalDate</key>
+					<date>2012-06-15T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>In Flames Rise Against The Offspring Limp Bizkit Billy Talent Die Ärzte Enter Shikari The Hives Sepultura Less Than Jake Eluveitie Fear Factory Hatebreed zebrahead Heaven Shall Burn In Extremo Pennywise Schandmaul All Shall Perish Lagwagon Emmure Mad Caddies Refused Hot Water Music Darkest Hour La Dispute Skindred Neaera Black Veil Brides Donots The Bronx H-Blockx Street Dogs Ghost Bury Tomorrow Breakdown Of Sanity While She Sleeps The Beauty of Gemina End Turbowolf Hathors</string>
+					<key>festivalPrice</key>
+					<integer>164</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Open Air St. Gallen</string>
+					<key>festivalDate</key>
+					<date>2012-06-28T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Incubus The Kooks Florence + the Machine The Mars Volta Mumford &amp; Sons deadmau5 Two Door Cinema Club Bat for Lashes Wolfmother Die Toten Hosen Paolo Nutini Gossip Noah And The Whale Paul Kalkbrenner dEUS Danko Jones Casper Ed Sheeran Sebastian Frittenbude Broilers Buraka Som Sistema Katzenjammer Modestep Kitty, Daisy &amp; Lewis Boy Züri West Stress Rival Sons Azealia Banks Phenomden Howler frantic Afenginn Mama Rosin 7 Dollar Taxi Labrador City Parov Stelar Band Caligola Kraftclub Brandy Butler &amp; the Fonxionaires hecht Wyfelder Luusbuebe Painhead Markus Krebs</string>
+					<key>festivalPrice</key>
+					<integer>160</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Paléo Festival</string>
+					<key>festivalDate</key>
+					<date>2012-07-17T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>The Cure Bloc Party The Kooks Franz Ferdinand Bon Iver David Guetta Justice M83 Garbage Manu Chao The Kills Sting Lenny Kravitz Rodrigo y Gabriela Warpaint Camille Groundation Balkan Beat Box Avishai Cohen Miles Kane Theophilus London Caravan Palace Dionysos Bénabar Chinese Man Natacha Atlas Other Lives Dominique A Boy Stress Hubert-Félix Thiéfaine Thomas Dutronc Roger Hodgson Raggasonic Brigitte Honey For Petzi Irma 1995 Hanni El Khatib Imany Anna Aaron C2C Ibrahim Maalouf Rover Kurt Vile &amp; the Violators Peter Kernel 7 Dollar Taxi Da Cruz Widdershins Stéphane Eicher Buvette Kaltehand &amp; Natasha Waters Monoski The Deadline Experience Francis Francis</string>
+					<key>festivalPrice</key>
+					<integer>270</integer>
+				</dict>
+			</array>
+			<key>countryName</key>
+			<string>Switzerland</string>
+		</dict>
+		<key>sweden</key>
+		<dict>
+			<key>festivals</key>
+			<array>
+				<dict>
+					<key>festivalName</key>
+					<string>Siesta! Festival</string>
+					<key>festivalDate</key>
+					<date>2012-05-31T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Death Cab for Cutie NOFX The Hives IAMX Lars Winnerbäck Raised Fist Kendrick Lamar Lo-Fi-Fnk Familjen Kvelertak Loney, dear AWOLNATION Maskinen Royal Republic Kapten Röd Jonathan Johansson Eldkvarn Deportees Den Svenska Björnstammen Laidback Luke Rebecca &amp; Fiona Scraps Of Tape Atlas Losing Grip L-Wiz Joddla med Siv Albin Gromer Labyrint Urban Cone Invasionen Nisse Hellberg Nitad Timbuktu &amp; Damn! Satan Takes A Holiday Samling Lune John De Sohn Niklas Death Destruction Terrible Feelings Fritjof &amp; Pikanen Vånna Inget Kriget mayka MRTN While Giants Sleep The Luxe Pete Thompson All Out Dubstep The Valottes</string>
+					<key>festivalPrice</key>
+					<integer>130</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Sweden Rock Festival</string>
+					<key>festivalDate</key>
+					<date>2012-06-06T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Motörhead Katatonia Mastodon Soundgarden Dimmu Borgir Sepultura Mötley Crüe Amorphis Lynyrd Skynyrd Sabaton Fear Factory Cannibal Corpse Edguy Gamma Ray Symphony X Blue Öyster Cult The Darkness Exodus Danko Jones King Diamond Twisted Sister Entombed Bad Company Dark Funeral Gotthard 10cc Slade Axel Rudi Pell Fiddler&apos;s Green Pentagram Orange Goblin Ugly Kid Joe Steel Panther The Flower Kings The Crown Graveyard Sebastian Bach Skyforger Night Ranger Michael Schenker Group Fish Saint Vitus Nationalteatern Sacred Reich Slaughter Girlschool Crucified Barbara Exciter Änglagård H.e.a.t Rival Sons Tygers Of Pan Tang Hell Imperial State Electric Return In Solitude Colossus Electric Boys Black Spiders Dynasty Little Angels Axe Adrenaline Mob Bonafide Mikael Rickfors Deals Death Killing Floor Year of the Goat Pompei Nights Vdelli Mother of God Beyond All Recognition Bourbon Boys Evasive Vulkan Scarlet Drop The Gloria Story Frontback Incarnit Reenact Goda Grannar</string>
+					<key>festivalPrice</key>
+					<integer>269</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Way Out West Festival</string>
+					<key>festivalDate</key>
+					<date>2012-08-09T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Florence + the Machine Bon Iver Feist Blur The Black Keys Wilco Hot Chip Miike Snow St. Vincent Best Coast Mazzy Star Refused Ceremony Ane Brun Mark Lanegan Billy Bragg Frank Ocean First Aid Kit The Field OFWGKTA Nicolas Jaar John Maus Ben Howard Adolescents Yelawolf Thurston Moore Bobby Womack Jonathan Richman ASAP Rocky The War On Drugs Here We Go Magic Frida Hyvönen 7 Seconds Memoryhouse Bob Mould The Afghan Whigs Megafaun Iceage Deportees Django Django Oberhofer Purity Ring Zero Boys Papa M Loefah Friends Jacuzzi Boys Madeon Korallreven Josh T. Pearson Solander Deadboy King Krule Factory Floor Milagres Boddika Kindness Redinho Lune Spencer Jackmaster Oneman Mickey Pearce Alt-J Haim Chunky Sibille Attar</string>
+					<key>festivalPrice</key>
+					<integer>213</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Hultsfred Festival</string>
+					<key>festivalDate</key>
+					<date>2012-06-14T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>The Cure The Kooks Kasabian The xx Justice M83 Mumford &amp; Sons Garbage The Cardigans Bat for Lashes The Gaslight Anthem The Stone Roses Marina &amp; the Diamonds Bombay Bicycle Club Noah And The Whale Eagles Of Death Metal James Blake Chase &amp; Status Frank Turner Blood Red Shoes Anna Ternheim The Vaccines Fink Slash Fanfarlo The Bronx Big K.R.I.T. Familjen Miles Kane Bear In Heaven Noel Gallagher&apos;s High Flying Birds Future Islands Feed Me Katzenjammer Errors Joker Nationalteatern Den Svenska Björnstammen Penguin Prison Kode9 Porcelain Raft Ikonika Jamie xx French Films Sleep Party People S.C.U.M Moullinex Ewert and the Two Dragons Cosmo Jarvis Charli XCX Big Deal Mikal Cronin Breton Cooly G Stay Spector THEESatisfaction Näääk Fare Soldi Simian Ghost Azure Blue Vintage Trouble Far &amp; Son Jacques Renault AlunaGeorge Morgan Zarate Greymatter Nimo Bombus Au Palais Willy Moon Rising Qulinez medlar Scratcha Näääk &amp; Nimo Gorillaz Sound System Studio Barnhus Sandra Mosh</string>
+					<key>festivalPrice</key>
+					<integer>191</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Metaltown</string>
+					<key>festivalDate</key>
+					<date>2012-06-15T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>In Flames Marilyn Manson Slayer Opeth Within Temptation Killswitch Engage Lamb of God Trivium Dark Tranquillity Mastodon Machine Head Sabaton Anthrax DevilDriver Soulfly Vader Gojira Hypocrisy Mayhem Darkest Hour Nasum Adept Shining Primordial Unleashed Skeletonwitch Engel Aura Noir Vildhjarta Avatar Skitarg Seventribe Unpure Alenah Dethrone Descend Kobra and The Lotus Kyuss Lives! Who Torched Cinderella? Voiceless Location</string>
+					<key>festivalPrice</key>
+					<integer>180</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Peace and Love Festival</string>
+					<key>festivalDate</key>
+					<date>2012-06-26T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Rise Against Rihanna Bloc Party Regina Spektor Simple Plan Enter Shikari Dropkick Murphys Arch Enemy Kent Wolfmother The Subways Skrillex My Morning Jacket Hatebreed M. Ward The Maccabees Edguy Clutch Billy Idol The Pains of Being Pure at Heart Turbonegro Maria Mena Lars Winnerbäck Mac Miller Anna Ternheim Kaizers Orchestra Nasum Slagsmålsklubben Veronica Maggio Hardcore Superstar Christina Perri Timbuktu Thåström Evidence The Soundtrack of our Lives Markus Krunegård Melissa Horn John Hiatt Stephen Marley Basia Bulat John Dahlbäck Magnus Uggla Other Lives Benjamin Francis Leftwich Hoffmaestro &amp; Chraa Dada Life Hedningarna Jonathan Johansson Eldkvarn Sparzanza Deportees Niki &amp; The Dove Michael Monroe Kroke Anchor Coca Carola Di Leva Dr. Lektroluv Kamchatka Imperial State Electric The Nomads Mattias Alkberg Hoven Droven Joanne Shaw Taylor Syster Sol Albin Gromer Labyrint Daniel Norgren Kurt Vile &amp; the Violators Mofeta &amp; Jerre Stiko Per Larsson Lastkaj 14 Casablanca Lilla Sällskapet Doorly Grieves and Budo Shilovatt The Kasketeers Caligola Alla fagra Nationalteaterns Rockorkester Mash Up International Hazelius Hedin Charles Bradley &amp; His Extraordinaires anna ihils</string>
+					<key>festivalPrice</key>
+					<integer>221</integer>
+				</dict>
+			</array>
+			<key>countryName</key>
+			<string>Sweden</string>
+		</dict>
+		<key>hungary</key>
+		<dict>
+			<key>festivals</key>
+			<array>
+				<dict>
+					<key>festivalName</key>
+					<string>Balaton Sound</string>
+					<key>festivalDate</key>
+					<date>2012-07-12T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Animal Collective David Guetta Digitalism Armin Van Buuren Calvin Harris Gossip Caribou De La Soul Paul Kalkbrenner Dizzee Rascal Tinie Tempah Example Gus Gus Martin Solveig Benga Avicii Sasha Feed Me Sander Van Doorn Oliver Koletzki Fritz Kalkbrenner Steve Angello Gareth Emery Sven Väth Carl Cox Ákos Shy FX Guy Gerber Knife Party Tensnake Dubfire Crazy P Dop Nicky Romero Nina Kraviz Maceo Plex Dapayk Tale Of Us Jackmaster</string>
+					<key>festivalPrice</key>
+					<integer>125</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Volt Festival</string>
+					<key>festivalDate</key>
+					<date>2012-06-27T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Snow Patrol Children of Bodom Röyksopp Lostprophets Simple Plan Enter Shikari Faith No More Skrillex Hadouken! Chase &amp; Status Mac Miller Katy B Camo &amp; Krooked Caspa Iggy &amp; The Stooges Quimby Emalkay Tankcsapda 30Y Ákos Bëlga Depresszió Toddla T Kiscsillag Subscribe Heaven Street Seven Péterfy Bori &amp; Love Band Pannonia Allstars Ska Orchestra Akkezdet Phiai Zagar Road Irie Maffia Brains Vad Fruttik Lord Punnany Massif Moby Dick Supernem Fish! Magashegyi Underground Csík zenekar Beatrice Magna Cum Laude Maszkura és a Tücsökraj Intim Torna Illegál Ocho Macho Compact Disco MC Dynamite Soerii &amp; Poolek Odett The [hated] Tomorrow We Are Rockstars Turbo! Carbonfools Balkan Fanatic PÁL UTCAI FIÚK Fábián Juli &amp; Zoohacker Deák Bill Blues Band ALVIN ÉS A MÓKUSOK HŐSÖK</string>
+					<key>festivalPrice</key>
+					<integer>90</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Sziget Festival</string>
+					<key>festivalDate</key>
+					<date>2012-08-06T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>The Killers Placebo Korn The xx Amon Amarth Mando Diao Two Door Cinema Club Anti-Flag The Ting Tings The Subways Flying Lotus Lamb Beatsteaks Paolo Nutini The Stone Roses Noah And The Whale Friendly Fires Hurts LMFAO The Horrors The Pogues Ministry dEUS Glasvegas Wild Beasts The Vaccines Modeselektor Fink Tiga Goran Bregović Bebel Gilberto High Contrast Saint Etienne Crystal Fighters DJ Fresh Molotov Crookers Magnetic Man Borgore Flux Pavilion Shantel Steve Aoki Emir Kusturica &amp; The No Smoking Orchestra Caro Emerald Axwell Fanfare Ciocărlia Katzenjammer Anna Calvi Heideroosjes Muchachito Bombo Infierno Sergent Garcia Quimby Dubioza Kolektiv Kakkmaddafakka Che Sudaka Azari &amp; III Leningrad Ákos LaBrassBanda Ministri Los de Abajo Besh O Drom Amsterdam Klezmer Band Dope D.O.D. Pannonia Allstars Ska Orchestra Dirtyphonics RotFront Chef&apos;Special I Cani Viza Figli di Madre Ignota Imam Baildi Black Seeds Bud Spencer Blues Explosion Roy Paci Animal Cannibals Jungle By Night GOCOO MC Dynamite In Golden Tears HK &amp; Les Saltimbanks La Selva Sur Blue Nipple Boy Phenotype Gypsy Sound System Dansor Baltic Balkan Orchestre National de Barbés Narasirato</string>
+					<key>festivalPrice</key>
+					<integer>225</integer>
+				</dict>
+			</array>
+			<key>countryName</key>
+			<string>Hungary</string>
+		</dict>
+		<key>france</key>
+		<dict>
+			<key>festivals</key>
+			<array>
+				<dict>
+					<key>festivalName</key>
+					<string>Sonisphere Festival France</string>
+					<key>festivalDate</key>
+					<date>2012-07-06T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Marilyn Manson Evanescence Lostprophets Lacuna Coil Faith No More Wolfmother Machine Head Meshuggah Soulfly Combichrist The Darkness I Killed the Prom Queen Baroness Black Stone Cherry Armored Saint Porn Queen</string>
+					<key>festivalPrice</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Garorock</string>
+					<key>festivalDate</key>
+					<date>2012-06-08T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>The Offspring Crystal Castles NOFX David Guetta The Hives Cypress Hill The Ting Tings Friendly Fires Metronomy The Bloody Beetroots The Specials Modeselektor Selah Sue Dionysos Foreign Beggars Charlie Winston Puppetmastaz Orelsan Dirtyphonics IZIA Breton Skip The Use 1995 Citizens! C2C Galaxie Odezenne</string>
+					<key>festivalPrice</key>
+					<integer>99</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Eurockéennes de Belfort</string>
+					<key>festivalDate</key>
+					<date>2012-06-29T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>The Cure The Kooks The Mars Volta Justice Dropkick Murphys Mastodon Cypress Hill Wiz Khalifa Lana Del Rey Gentleman Miike Snow The Brian Jonestown Massacre Refused Skream Sebastian Amadou &amp; Mariam Die Antwoord Benga Kavinsky Hank Williams III Miles Kane Thee Oh Sees Dionysos Chinese Man Charlie Winston Busy P Jack White Django Django Shaka Ponk Michael Kiwanuka Hubert-Félix Thiéfaine Dope D.O.D. Orelsan Poliça Cerebral Ballzy Electric Guest Reggie Watts Factory Floor Frànçois &amp; The Atlas Mountains 1995 Hanni El Khatib Alabama Shakes Sallie Ford &amp; the Sound Outside C2C Hollie Cook Christine Kindness Näo Set&amp;Match Murkage Carbon Airways Los Disidentes Del Sucio Motel Art District MARIE MADELEINE The Buttshakers Jesus Christ Fashion Barbe Hathors Le Comte de Bouderbala Sahab &amp; Le Kokondo Zaz</string>
+					<key>festivalPrice</key>
+					<integer>99</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Hellfest Summer Open Air</string>
+					<key>festivalDate</key>
+					<date>2012-06-15T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Guns N&apos; Roses Megadeth Children of Bodom Within Temptation Amon Amarth Dropkick Murphys Lamb of God Ozzy Osbourne Trivium Dimmu Borgir Machine Head Mötley Crüe Behemoth Lynyrd Skynyrd August Burns Red Black Label Society Hatebreed Cannibal Corpse Heaven Shall Burn DevilDriver In Extremo Edguy Blue Öyster Cult Napalm Death All Shall Perish Turbonegro Satyricon Emmure Refused Exodus Unearth Insomnium Darkest Hour Uriah Heep Nasum Evergreen Terrace King Diamond Walls Of Jericho Enslaved Slash Madball Entombed Moonsorrow Anaal Nathrakh H2O Obituary Arcturus Shining Alcest Dying Fetus Aborted The Bronx Suffocation Cancer Bats Gotthard CRASHDÏET Biohazard Sunn O))) Hank Williams III Death Angel Pentagram Orange Goblin Discharge Death Before Dishonor Taake Integrity Street Dogs Brujeria Ihsahn Origin D-A-D Tragedy Colour Haze Steel Panther Benighted Brutal Truth Endstille Sebastian Bach Ufomammut Doomriders Vomitory Saint Vitus Gama Bomb Hoods The Atomic Bitchwax Unexpect Blood Red Throne Amenra From Ashes Rise Benediction Dog Eat Dog Haemorrhage Acid King Forgotten Tomb Molly Hatchet Rompeprop Celeste Sólstafir Vitamin X Sacred Reich Darkspace Girlschool Big Business The Devil&apos;s Blood Hour of Penance Unsane Year of No Light Victims Black Bomb A Betraying The Martyrs Necros Christos Do or Die Hamlet Glorior Belli YOB Avulsed Lock Up Necrophagia The Obsessed Liturgy Thou Monkey3 Belenos ASG Lizzy Borden All For Nothing Oranssi Pazuzu Aosoth Suicidal Angels Ascension Trepalium Channel Zero Vulture Industries L&apos;esprit Du Clan Brain Police Sublime Cadaveric Decomposition Arson Anthem Merrimack Winterfylleth Extinction of Mankind Jesus Cröst Dÿse Djerv As They Burn Koritni The Spudmonsters October File Vanderbuyst Bukowski Unisonic The Rodeo Idiot Engine Alpha Tiger Strong as ten Kobra and The Lotus Lasting Values Abysse D.usk</string>
+					<key>festivalPrice</key>
+					<integer>149</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Rock en Seine</string>
+					<key>festivalDate</key>
+					<date>2012-08-24T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Placebo Green Day Sigur Rós Bloc Party The Shins The Black Keys The Dandy Warhols Foster the People Eagles Of Death Metal Social Distortion Grandaddy Little Dragon Mark Lanegan Frank Ocean Lissie Noel Gallagher&apos;s High Flying Birds Caravan Palace Dionysos Agoria Friends Stuck in the Sound The Bewitched Hands C2C</string>
+					<key>festivalPrice</key>
+					<integer>109</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Main Square Festival</string>
+					<key>festivalDate</key>
+					<date>2012-07-29T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>blink-182 Incubus Pearl Jam The Kooks Florence + the Machine Kasabian The xx The All-American Rejects The Mars Volta Justice Editors M83 Garbage Wiz Khalifa Noah And The Whale The Maccabees Metronomy 雅-MIYAVI- The Rapture Simple Minds Birdy Nam Nam X Ben Howard Revolver Shaka Ponk Michael Kiwanuka Stuck in the Sound Beat Assailant Brigitte IZIA Brodinski Gesaffelstein Skip The Use Whitin Temptation Greenshape Miles Kanes</string>
+					<key>festivalPrice</key>
+					<integer>135</integer>
+				</dict>
+			</array>
+			<key>countryName</key>
+			<string>France</string>
+		</dict>
+		<key>portugal</key>
+		<dict>
+			<key>festivals</key>
+			<array>
+				<dict>
+					<key>festivalName</key>
+					<string>Sudoeste Festival</string>
+					<key>festivalDate</key>
+					<date>2012-08-01T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>David Guetta Thievery Corporation The Roots Two Door Cinema Club The Ting Tings Ben Harper Eddie Vedder Four Tet James Morrison Matisyahu Best Coast Jessie J Example The Vaccines Glen Hansard Calle 13 Martin Solveig Fat Freddy&apos;s Drop Nicolas Jaar Ben Howard Marcelo D2 Afrojack Xutos &amp; Pontapés The Twelves Richie Campbell Pete Tha Zouk</string>
+					<key>festivalPrice</key>
+					<integer>95</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Rock in Rio Lisboa</string>
+					<key>festivalDate</key>
+					<date>2012-05-25T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Metallica Linkin Park The Smashing Pumpkins The Offspring Evanescence Maroon 5 Limp Bizkit Kaiser Chiefs Mastodon Sepultura Stevie Wonder Lenny Kravitz Bryan Adams Kreator Joss Stone James Bruce Springsteen &amp; The E Street Band Ivete Sangalo David Fonseca The Gift Xutos &amp; Pontapés Masters At Work Mão Morta Rui Veloso Rita Redshoes Punks Jump Up RAMP Mafalda Veiga Boss AC Orelha Negra Maceo Plex Expensive Soul Hyldon The Magician Ana Free Carminho DJ Harvey Les Tambours du Bronx Amor electro Luís Represas DJ Vibe The Martinez Brothers Dyed Soundorom Mirror People Johnwaynes Zé Ricardo DJ Dixon James Jones Life is a Loop Miguel Rendeiro João Gil The Black Mamba Magazino Stereo Addiction Azari&amp;iii Pedro Laginha Leo Janeiro dOP live DJ Poppy Zé Salvador Miguel Quintão José Belo Bis Boys Please DiscoTexas Band</string>
+					<key>festivalPrice</key>
+					<integer>61</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Super Bock Super Rock</string>
+					<key>festivalDate</key>
+					<date>2012-07-05T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Incubus Bloc Party The Shins Regina Spektor Hot Chip Bat for Lashes Flying Lotus Skrillex Friendly Fires Lana Del Rey The Horrors St. Vincent The Rapture Battles Apparat Little Dragon Peter Doherty Aloe Blacc Oh Land Perfume Genius Dam-Funk Wraygunn Hanni El Khatib Alabama Shakes SuperNada Tono Capitão Fausto</string>
+					<key>festivalPrice</key>
+					<integer>80</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Primavera Sound Porto</string>
+					<key>festivalDate</key>
+					<date>2012-06-07T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Death Cab for Cutie Björk Yann Tiersen The xx Explosions in the Sky Wilco The Flaming Lips M83 Beach House Yo La Tengo Rufus Wainwright Suede The Walkmen The Drums The Rapture Washed Out Atlas Sound Neon Indian Black Lips Wavves Spiritualized The Weeknd Saint Etienne The Olivia Tremor Control Chairlift Afghan Whigs Shellac Tennis Dirty Three Wolves in the Throne Room Thee Oh Sees The War On Drugs Other Lives Codeine Ultramagnetic MC&apos;s Linda Martini Veronica Falls John Talabot Sleepy Sun Jeff Mangum Death Grips Forest Swords I Break Horses Demdike Stare Baxter Dury James Ferraro Bigott Erol Alkan Deadboy Lee Ranaldo Siskiyou The Right Ons Mujeres Tall Firs Gala Drop Redinho Spencer We Trust Jackmaster Oneman Esperit! Stopestra!</string>
+					<key>festivalPrice</key>
+					<integer>99</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Optimus Alive</string>
+					<key>festivalDate</key>
+					<date>2012-07-13T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Radiohead The Cure The Kooks Snow Patrol Florence + the Machine Justice Mumford &amp; Sons The Kills Tricky The Stone Roses Santigold Caribou Noah And The Whale The Maccabees LMFAO Metronomy The Antlers Mazzy Star Refused Danko Jones Warpaint Death In Vegas Martina Topley-Bird SBTRKT Sebastian Katy B Dum Dum Girls Lisa Hannigan Miles Kane AWOLNATION Here We Go Magic Buraka Som Sistema Big Deal Gesaffelstein Paus MIUDA</string>
+					<key>festivalPrice</key>
+					<integer>121</integer>
+				</dict>
+			</array>
+			<key>countryName</key>
+			<string>Portugal</string>
+		</dict>
+		<key>spain</key>
+		<dict>
+			<key>festivals</key>
+			<array>
+				<dict>
+					<key>festivalName</key>
+					<string>BAM</string>
+					<key>festivalDate</key>
+					<date>2012-09-21T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>TBA</string>
+					<key>festivalPrice</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Arenal Sound</string>
+					<key>festivalDate</key>
+					<date>2012-08-02T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Kaiser Chiefs Two Door Cinema Club The Ting Tings The Wombats Clap Your Hands Say Yeah Digitalism Los Campesinos! Metronomy Felix Da Housecat Crystal Fighters Love Of Lesbian Crookers Lori Meyers Sidonie Sr. Chinarro Maga Monarchy CatPeople Kakkmaddafakka SuperSubmarina Zahara El Columpio Asesino Niños Mutantes La Pegatina Second Anni B Sweet Mendetz La Sonrisa De Julia El Puchero del Hortelano Delafé y las flores azules Smile Zenttric Hola a todo el mundo Eskorzo Napoleon Solo Stay Bongo Botrako Ragdog Zulu 9.30 La Raíz The Zombie Kids Mumbai Science Sin Rumbo Layabouts El Sombrero Del Abuelo Chinese Christmas Cards Ruidoblanco Dinamo Corizonas El Desván del Duende Moments Metropol Kenedy Los Barrankillos Sexy Zebras Tomback Cut Your Hair Alpargata The Dirt Tracks La familia del árbol</string>
+					<key>festivalPrice</key>
+					<integer>60</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Azkena Rock Festival</string>
+					<key>festivalDate</key>
+					<date>2012-06-14T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>The Mars Volta Dropkick Murphys Ozzy Osbourne Lynyrd Skynyrd Black Label Society My Morning Jacket M. Ward The Brian Jonestown Massacre Frank Turner Blue Öyster Cult The Darkness Danko Jones Twisted Sister Gallows Status Quo Hank Williams III Pentagram Steel Panther Graveyard Triggerfinger North Mississippi Allstars Dick Brave &amp; the Backbeats Gun Lisabö Sallie Ford &amp; the Sound Outside Israel Nash Gripka The Union Rich Robinson The Screaming Tribesmen Lions In The Street Willis Drummond Si Cranstoun Porco Bravo Pontus Snibb 3 Charles Bradley &amp; His Extraordinaires LÜGER Ben Kweller</string>
+					<key>festivalPrice</key>
+					<integer>102</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>SOS 4.8 Festival</string>
+					<key>festivalDate</key>
+					<date>2012-05-04T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Mogwai The Flaming Lips The Magnetic Fields The Kills Cansei de Ser Sexy Pulp Gossip Friendly Fires Simian Mobile Disco Yelle Sebastian Love Of Lesbian Yuck La Casa Azul Nacho Vegas Buraka Som Sistema Feed Me Antònia Font Matthew Herbert The New Raemon John Talabot El Columpio Asesino Kiko Veneno Klaus &amp; Kinski Hidrogenesse Parade Bigott Delorentos Grupo de Expertos Solynieve Brodinski Maika Makovski Miqui Puig The Marzipan Man La estrella de David The Zombie Kids The Monomes Pional yall Analogic Eme Dj DJ Kosmos Rusty Warriors Raúl Fernández &amp; Enric Montefusco Meneo</string>
+					<key>festivalPrice</key>
+					<integer>80</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Sónar</string>
+					<key>festivalDate</key>
+					<date>2012-06-14T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Hot Chip New Order The Roots Fatboy Slim deadmau5 Amon Tobin Flying Lotus Friendly Fires Lana Del Rey Metronomy James Blake Simian Mobile Disco Squarepusher Pretty Lights Modeselektor Cornelius Die Antwoord Nicolas Jaar Austra Mouse on Mars Richie Hawtin Laurent Garnier Star Slinger Luciano Totally Enormous Extinct Dinosaurs When Saints Go Machine John Talabot Trust Kode9 Azari &amp; III Peaking Lights Arbol Thundercat Untold Madeon Jack Beats The 2 Bears Jacques Greene Julio Bashmore Maria Minerva James Murphy Jesse Boykins III Maya Jane Coles Blawan Cooly G Touch Nina Kraviz Lapalux NGUZUNGUZU Darkside Mary Anne Hobbs Kutmah Annie Mac Canblaster DJ Harvey The Suicide of Western Culture Dago Scratcha Dva Logical Nonsense Doc Daneeka Sinjin Hawke Trevor Jackson Ricardo Donoso Brainfeeder DJ Spinn &amp; DJ Rashad Masaki Batoh KEYS N KRATES Uner Discodromo Daniel Miller El_Txef_A Psilosamples Koulomek Pegasvs Coyu Amable Stand Up Against Heart Crime DJ2D2 Esperit! Nehuen Lenticular Clouds Plapla Pinky Eduardo De La Calle D.Forma Brodinski &amp; Gesaffelstein Microfeel zora jones Blastto Fábel Mostly Robot Igor Marijuán Machine Beats Yall Djs Supersilent feat. John Paul Jones</string>
+					<key>festivalPrice</key>
+					<integer>155</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Rock Coast Festival</string>
+					<key>festivalDate</key>
+					<date>2012-05-24T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>The Smashing Pumpkins Marilyn Manson Evanescence Fatboy Slim Cypress Hill Sepultura Ben Harper Orbital Ministry of Sound Marea Muchachito Bombo Infierno Iggy &amp; The Stooges Gaf KEIKO Guerrilla Urbana This Drama La vieja morla El Veneno Crew Brutalizzed Kids La Perra de Pavlov MALCORTADO Las ratas Esclavitud The Birkins El Faro Diplomáticos The Amaroses The Moustache pornosurf The Monos Pachumba Holy Disgrace Miniatura Glasherz Isolina Amenofis el Cenobita Victoria Marso Nadien Bel Bee Bee espacio libre Rolling Hackers Letters From Reykjavik</string>
+					<key>festivalPrice</key>
+					<integer>120</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Primavera Sound</string>
+					<key>festivalDate</key>
+					<date>2012-05-30T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Death Cab for Cutie The Cure Franz Ferdinand Björk Yann Tiersen Beirut The xx Wilco Kings of Convenience Justice M83 Beach House Yo La Tengo Rufus Wainwright Laura Marling The Go! Team The Drums The Rapture Napalm Death Washed Out Melvins Mazzy Star Girls Atlas Sound Neon Indian Refused Black Lips Wavves Sleigh Bells Spiritualized Mayhem The Weeknd Death In Vegas Wild Beasts Saint Etienne Big Star Mudhoney Real Estate SBTRKT Trash Talk The Olivia Tremor Control Chairlift The Field El-P The Chameleons Benga Beach Fossils Grimes Afghan Whigs Shellac Richard Hawley The Wedding Present Dirty Three Japandroids Godflesh Marianne Faithfull Sleep Chromatics Wolves in the Throne Room Thee Oh Sees White Denim Archers of Loaf Field Music LFO Nacho Vegas Absynthe Minded ASAP Rocky The War On Drugs Scuba Other Lives B. Fleischmann Rustie Sr. Chinarro Dominique A Aeroplane Christina Rosenvinge Codeine Sharon Van Etten Linda Martini Jeremy Jay Veronica Falls Iceage Dirty Beaches AraabMUZIK Harvey Milk Danny Brown Lower Dens John Talabot Sleepy Sun The Pop Group Jeff Mangum OFF! A Storm of Light Matias Aguayo Death Grips Hooray for Earth Forest Swords Hype Williams Purity Ring I Break Horses Jamie xx Liturgy Obits Chavez Buffy Sainte-Marie Friends Demdike Stare James Hunter Joe Crepúsculo Baxter Dury Peter Wolf Crier Girls Names Michael Gira James Ferraro Josh T. Pearson Bigott Erol Alkan Dutch Uncles The Men Astro Grupo de Expertos Solynieve The Ganjas Sandro Perri Deadboy Dominant Legs Lee Ranaldo AfroCubism Mutiny On The Bounty Kleenex Girl Wonder Siskiyou Orthodox Lisabö Refree Fernando Milagros Bombino Milagres Hanni El Khatib Main Nick Garrie The Right Ons Mujeres Cuchillo Joan Colomo Hot Panda Kristen Milk Music Tall Firs Elephant Bleached La estrella de David Templeton Kindness Evripidis and his tragedies Anímic NaPszykłat Ginga Redinho The Experimental Tropic Blues Band Picore Spencer No More Lies Rebolledo Fred i Son Rats On Rafts Elvira Univers Autumn Comets Pional April Fool&apos;s Day Jackmaster ed wood Her Only Presence the lions constellation Doble Pletina Los negretes Oneman Eh! Atleta Senior i el Cor Brutal Unicornibot Cosmen Adelaida Grushenka L&apos;Hereu Escampa Bernhard Fleischmann Aliment Internet2 The Lovely Bad Things Boreals Pegasvs Santiago Latorre Beach Beach Mates Mates Las Nurses Fasenuova Gudar Dulce Pájara De Juventud Xavier Baró gúdar Stasi Edith Crash Hazte Lapón Boxeur The Coeur El Faro Inborn! Void Ov Voices Villarroel Síctor Valdaña and The Check This Outs Eliah Smith Renaldo &amp; Clara Ocellot Steven Munar &amp; the Miracle Band Partido Capitán Lorena Álvarez y su Banda Municipal Gabriel y Vencerás Celestial Bums The free fall band Candela y Los Supremos Father john misty</string>
+					<key>festivalPrice</key>
+					<integer>190</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Benicassim International Festival</string>
+					<key>festivalDate</key>
+					<date>2012-07-12T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Bob Dylan Florence + the Machine Crystal Castles David Guetta New Order Bat for Lashes At the Drive-In The Stone Roses Bombay Bicycle Club The Maccabees The Horrors De La Soul Chase &amp; Status Jessie J Dizzee Rascal Buzzcocks Little Dragon Example The Vaccines Ed Sheeran Sebastian Katy B School of Seven Bells Lisa Hannigan Yuksek Miles Kane La Casa Azul Noel Gallagher&apos;s High Flying Birds Agoria The New Raemon Totally Enormous Extinct Dinosaurs Django Django Dave Clarke Klaus &amp; Kinski Maverick Sabre Joe Crepúsculo Delorentos Pony Bravo Cooper Maya Jane Coles Los Tiki Phantoms Disappears Howler Robyn Hitchcock &amp; the Venus 3 Todd Terje Ham Sandwich Spector Department S Kurt Vile &amp; the Violators Oscar Mulero The Secret Society Juanita y los Feos Jero Romero Thee Brandy Hips Arveene &amp; Misk Arp Attack Tuya Sons Phonetic Ligers</string>
+					<key>festivalPrice</key>
+					<integer>165</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Costa De Fuego Festival</string>
+					<key>festivalDate</key>
+					<date>2012-07-20T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>In Flames Nightwish Marilyn Manson Guns N&apos; Roses Opeth Sonata Arctica Katatonia Lacuna Coil Amorphis Paradise Lost Cancer Bats We Are The Ocean WarCry Rolo Tomassi Berri Txarrak Barón Rojo Hamlet Obús Noctem Steel Horse</string>
+					<key>festivalPrice</key>
+					<integer>80</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Sonisphere Festival</string>
+					<key>festivalDate</key>
+					<date>2012-05-25T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Metallica The Offspring Evanescence Slayer Children of Bodom Within Temptation Limp Bizkit Sonata Arctica Enter Shikari Mastodon Soundgarden Machine Head Paradise Lost Fear Factory Gojira Clutch Skindred Corrosion of Conformity Orange Goblin Ghost Rise To Remain Sister Vita Imana Kobra and The Lotus Kyuss Lives! Six Hour Sundown</string>
+					<key>festivalPrice</key>
+					<integer>89</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Bilbao BBK Live</string>
+					<key>festivalDate</key>
+					<date>2012-07-12T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Radiohead The Cure Bloc Party The Kooks Snow Patrol Keane Mumford &amp; Sons Enter Shikari Garbage Four Tet Noah And The Whale The Maccabees The View Warpaint Glasvegas Zoé Band of Skulls Vetusta Morla Ben Howard The Jon Spencer Blues Explosion Lori Meyers AWOLNATION Here We Go Magic Young Guns The Gift Tribes We Are Augustines James Murphy The Black Belles The Inspector Cluzo Zea Mays Corizonas Moments Pure Love Pat Mahoney Namek Planet</string>
+					<key>festivalPrice</key>
+					<integer>88</integer>
+				</dict>
+			</array>
+			<key>countryName</key>
+			<string>Spain</string>
+		</dict>
+		<key>austria</key>
+		<dict>
+			<key>festivals</key>
+			<array>
+				<dict>
+					<key>festivalName</key>
+					<string>Frequency Festival</string>
+					<key>festivalDate</key>
+					<date>2012-08-16T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>The Killers Placebo The Cure Korn Bloc Party The xx The Black Keys Wilco Yellowcard Enter Shikari The Hives Hot Chip The Subways The Dandy Warhols Beatsteaks Bush Parov Stelar The Maccabees The Cribs The Drums Miike Snow Paul Kalkbrenner MxPx Tocotronic Sportfreunde Stiller Kettcar Glasvegas Modeselektor Casper Ed Sheeran Ane Brun Saint Etienne Milow Jan Delay Frittenbude Benga Magnetic Man Lissie Flux Pavilion We Were Promised Jetpacks Noel Gallagher&apos;s High Flying Birds MIA. Camo &amp; Krooked Zombie Nation Foreign Beggars Feed Me Katzenjammer Modestep John B Kraftklub Bob Mould Breakage Boy Andy C Dry The River Moguai Niki &amp; The Dove Wallis Bird Kill The Noise Friends Sigma Daughter KOAN Sound Erol Alkan Gesaffelstein Body &amp; Soul The Static Age Kill It Kid 17th Boulevard Gary Fixers Mumbai Science The Minutes DISASZT Zulu Winter Giantree Etepetete Dead Battery Half Past Whatever Etnik Gudrun von Laxenburg Alt J Redex wred The Sonic Cubes</string>
+					<key>festivalPrice</key>
+					<integer>120</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Nova Rock Festival</string>
+					<key>festivalDate</key>
+					<date>2012-06-08T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Metallica Linkin Park Rise Against Nightwish The Offspring Marilyn Manson Evanescence Slayer Opeth Kasabian Within Temptation Limp Bizkit Billy Talent Killswitch Engage As I Lay Dying Lamb of God Trivium Mastodon Cypress Hill Dimmu Borgir Machine Head Die Toten Hosen The Gaslight Anthem August Burns Red Shinedown Hatebreed DevilDriver Oomph! Puddle Of Mudd Gojira Schandmaul Turbonegro Lagwagon Mad Caddies Refused Everlast We Butter The Bread With Butter The Baseballs Devin Townsend Project Eisbrecher Hardcore Superstar Cancer Bats Biohazard Visions of Atlantis The BossHoss The Sorrow Steel Panther AWOLNATION The Answer Royal Republic Hoffmaestro Triggerfinger Pulled Apart By Horses While She Sleeps 3 Feet Smaller Joey Cape Gun Corey Taylor Atlas Losing Grip Livingston Russkaja DIE VAMUMMTN T The Computers Mambo Kurt Spout Dear Superstar All Mankind Centao Marrok Kill the Lycan Roterfeld Kobra and The Lotus Cannonball Ride Lightworker Gudalajara Stereo Face</string>
+					<key>festivalPrice</key>
+					<integer>122</integer>
+				</dict>
+			</array>
+			<key>countryName</key>
+			<string>Austria</string>
+		</dict>
+		<key>uk</key>
+		<dict>
+			<key>festivals</key>
+			<array>
+				<dict>
+					<key>festivalName</key>
+					<string>Godiva Festival</string>
+					<key>festivalDate</key>
+					<date>2012-06-29T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>TBA</string>
+					<key>festivalPrice</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Tramlines Festival</string>
+					<key>festivalDate</key>
+					<date>2012-07-20T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>We Are Scientists 65daysofstatic Mr. Scruff Roots Manuva Benga Champion Future of the Left Field Music Chew Lips Rolo Tomassi Ms. Dynamite Cymbals Esben And The Witch Keep Shelly In Athens Toddla T Frankie &amp; The Heartstrings James Yorkston Grooverider Charli XCX xxxy Mazes Toy Roska Wild Palms Spector Kill It Kid The Heartbreaks Beth Jeans Houghton Frankie Rose Swindle Rebel MC Ifan Dafydd Theme Park Youngman The Neat Mark Morriss This Many Boyfriends Logan Sama Midland Bwana The Destroyers Peace Jackmaster Soothsayers Childhood Elijah &amp; Skilliam The White Album Hookworms Alt-J Troumaca Joanna Gruesome Crushed Beaks Artmagic yoofs Amusement Lulu James Rafiki Jazz KULT COUNTRY The Soul Circle Gang Vincent Wizard Cornell Campbell &amp; Top Cat Raf Daddy</string>
+					<key>festivalPrice</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Greenman Festival</string>
+					<key>festivalDate</key>
+					<date>2012-08-17T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Yann Tiersen Feist of Montreal Van Morrison The Tallest Man on Earth The Walkmen Junior Boys Bowerbirds Damien Jurado Slow Club tUnE-yArDs The Bees Willy Mason Field Music Jonathan Richman Stephen Malkmus and the Jicks Cass McCombs The Felice Brothers The Wave Pictures Dark Dark Dark Megafaun Ahab Ghostpoet Michael Kiwanuka Joe Pug Hidden Orchestra Peaking Lights Friends Alaska Daughter Three Trapped Tigers C.W. Stoneking Lucy Rose Toy Gang Colours Teeth Of The Sea Beth Jeans Houghton The Time And Space Machine Islet Cheeba Trembling Bells Gabby Young and Other Animals Cashier No. 9 Vadoinmessico Jamie N Commons Stealing Sheep Sweet Baboo RM Hubbert The Pictish Trail Treetop Flyers The Staves Nuru Kane Cocos Lovers Beth Jeans Houghton &amp; The Hooves Of Destiny Tiny Ruins Laura J Martin Sheelanagig Smerins Anti-Social Club Rocketnumbernine Yes Sir Boss Steve Smyth Psychemagik Kwes. King Porter Stomp Goodnight Lenin Mowbird Cold Specks Nick Mulvey The Urban Folk Quartet One Sixth Of Tommy Rodney Branigan Mankala Cashier No 9 Tako Lako Richard Warren Chailo Sim Richard Norris Pictish Trail Joanna Gruesome Lund Quartet Pat Dam Smyth dizraeli and the small gods No Thee No Ess Phillip Henry &amp; Hannah Martin Sen Segur Scritti Polliti David McCaffrey Cate Ferris Seamus Fogarty Georgia Ruth Nuala Honan Greta Isaac The Perch Creek Family Jug Band The Waves Pictures Pete Paphides ∆ Alt J Dom James And His Dixie Ticklers Vinyl Revival Joe Driscoll &amp; Sekou Kouyate</string>
+					<key>festivalPrice</key>
+					<integer>174</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Creamfields UK</string>
+					<key>festivalDate</key>
+					<date>2012-08-24T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>David Guetta Tiësto deadmau5 Groove Armada Skrillex Calvin Harris Benny Benassi Paul van Dyk Ferry Corsten Example Above &amp; Beyond Skream Eric Prydz Sub Focus Crookers Benga Avicii Major Lazer Borgore Flux Pavilion Markus Schulz Steve Aoki Scuba Axwell Caspa Wolfgang Gartner Feed Me A-Trak Sander Van Doorn Doctor P Fake Blood John O&apos;Callaghan 16bit Steve Angello Gareth Emery John Digweed Porter Robinson Laidback Luke Joris Voorn Andy C Mat Zo Shy FX Sébastien Léger Knife Party Dirty South ZEDD Simon Patterson Madeon Alex Metric KOAN Sound Erol Alkan Michael Woods Sebastian Ingrosso Friction Hardwell Mark Knight Judge Jules Pete Tong Maya Jane Coles Brodinski Gesaffelstein BURNS RedLight Tommy Trash Funkagenda Alesso Swanky Tunes Nicky Romero Loadstar Ben Gold Jacques Lu Cont NERVO Annie Mac Thomas Gold Jaguar Skills Ørjan Nilsen Eddie Halliwell Dimitri Vegas &amp; Like Mike Tim Mason Adam Sheridan Third Party Gareth Wyn Jeremy Olander Mistajam Rudimental Kryder Cazzette Qulinez Zane Lowe Sunnery James AN21 &amp; Max Vangelli D.O.D North Base Subdrop Ryan Marciano</string>
+					<key>festivalPrice</key>
+					<integer>174</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Rockness Festival</string>
+					<key>festivalDate</key>
+					<date>2012-06-08T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Justice Mumford &amp; Sons deadmau5 Biffy Clyro Noah And The Whale Friendly Fires Metronomy The Drums The Rapture The Pigeon Detectives Mystery Jets Ash The View Mylo Death In Vegas Ed Sheeran DJ Fresh Yuksek Theophilus London Chic Errors Busy P Étienne de Crécy Jeff Mills James Holden Totally Enormous Extinct Dinosaurs Little Comets Porter Robinson Wretch 32 Knife Party Madeon Admiral Fallow BeardyMan Lucy Rose Riton Gesaffelstein Bastille Jakwob Tiger &amp; Woods Kassidy The Correspondents Sound of Guns Jacques Lu Cont Annie Mac Saint Saviour The Cuban Brothers All The Young To Kill a King Japanese Popstars The Draymin Zane Lowe Broken Hands Nina Nesbitt Polymath Count Clockwork</string>
+					<key>festivalPrice</key>
+					<integer>191</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Field Day</string>
+					<key>festivalDate</key>
+					<date>2012-06-02T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Franz Ferdinand Beirut Andrew Bird Metronomy Mazzy Star Sleigh Bells Tortoise Liars The Vaccines Modeselektor SBTRKT Gold Panda Chairlift Grimes Fennesz Austra Hudson Mohawke Here We Go Magic Jeffrey Lewis Errors Com Truise Rustie Crocodiles Summer Camp When Saints Go Machine Django Django R. Stevie Moore Peaking Lights Papa M The Internet Blood Orange Friends Baxter Dury Pond Julio Bashmore The Men Kidkanevil Laurel Halo Maya Jane Coles Toy AfroCubism Blawan Débruit Blanck Mass Koreless last dinosaurs Julia Holter Spector Citizens! Kassem Mosse Revere Kindness Theme Park UMA Jessie Ware To Kill a King Eats Everything Zulu Winter Rocketnumbernine Savages Outfit Sunless &apos;97 Casper C Patrick O&apos;Neill Daniel Avery Last.fm DJ Team Two Jackals Bugged Out DJ Jen Long DJ Deco Child DJ Eat Your Own Ears DJ Novella DJ Blackest Ever Black DJ The Haxan Cloak DJ Sega Bodega DJ Beach Creep DJ Bobby Tank DJ Jig T DJ Lanzarote DJ Sexbeat DJ Red Bull Music Academy DJs Tim Burgess DJ Double Denim DJ Amateur Best DJ Zomby DJ Dum Dum Girls DJ Huw Stevens DJ Justin Spear DJ</string>
+					<key>festivalPrice</key>
+					<integer>54</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Parklife Festival</string>
+					<key>festivalDate</key>
+					<date>2012-06-09T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Crystal Castles Pendulum The Flaming Lips Justice Noah And The Whale De La Soul Simian Mobile Disco Kelis Dizzee Rascal Nero High Contrast Gold Panda Mount Kimbie The Field Logistics Tom Vek Com Truise DJ Yoda Fake Blood Goldie 16bit Claude VonStroke Ghostpoet AraabMUZIK Joy Orbison Dam-Funk Dam-Funk Django Django The Phenomenal Handclap Band Floating Points Friends Thundercat Toddla T Madeon Azealia Banks Erol Alkan Julio Bashmore Factory Floor Pearson Sound Spector Annie Mac Ben UFO Alt-J Zane Lowe</string>
+					<key>festivalPrice</key>
+					<integer>77</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Lovebox Festival</string>
+					<key>festivalDate</key>
+					<date>2012-06-15T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Crystal Castles Mika Hot Chip Patrick Wolf Groove Armada Friendly Fires Lana Del Rey The Rapture Kelis Little Dragon Booka Shade Rusko Tiga High Contrast Felix Da Housecat Crystal Fighters London Elektricity Sub Focus Dev Magnetic Man Netsky Grace Jones Logistics Bobby Womack Camo &amp; Krooked Chic Danny Byrd The Golden Filter Nu:Tone Devlin Ms. Dynamite Breakage Joy Orbison DJ Hell Azari &amp; III Niki &amp; The Dove Shy FX Maverick Sabre Toddla T Madeon The 2 Bears Crazy P Pangaea Azealia Banks Plastician P Money Dot Rotten James Murphy Emeli Sandé Move D Delilah The Prototypes Andrew Weatherall Trim Damian Lazarus Zinc Rita Ora Art Department Roska Pearson Sound Maceo Plex Dynamite MC Boy Better Know Optimo Holly Johnson Tim Sweeney Brackles Saint Saviour S.P.Y Tyson Youngman Dixon Prosumer Ben UFO Stooshe Ronika David Rodigan N TYPE The Heatwave Horse Meat Disco Marcus Nasty Gerd Janson Robert James amirali MC Wrec Stamina MC Kris Di Angelis Jodie Harsh Jonny Woo Digital Sound Boy Joshyou Are</string>
+					<key>festivalPrice</key>
+					<integer>119</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Hop Farm Festival</string>
+					<key>festivalDate</key>
+					<date>2012-06-29T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Bob Dylan Damien Rice Maxïmo Park My Morning Jacket Peter Gabriel Suede Frightened Rabbit Primal Scream The Futureheads Patti Smith Gomez LIGHTS The Stranglers British Sea Power Richard Ashcroft Kool &amp; The Gang Funkadelic Slow Club The Psychedelic Furs Parliament Tom Vek Howling Bells White Denim Field Music The Jezabels Billy Ocean The Datsuns Joan Armatrading Benjamin Francis Leftwich Tanita Tikaram Gruff Rhys Gilbert O&apos;Sullivan Robert Francis Ray Davies The Levellers Bellowhead King Charles The Sheepdogs Marcus Foster Lucy Rose Dog Is Dead Randy Crawford &amp; Joe Sample Lianne La Havas Tallest Man On Earth Race Horses Maia Various Cruelties Treetop Flyers Fin James Levy and the Blood Red Rose Dr John And The Lower 911 Steve Smyth Mary Epworth Lewis Floyd Henry Bruce Forsyth Patti Smith and Her Band Sian Sanderson Ligers Ben Kweller</string>
+					<key>festivalPrice</key>
+					<integer>195</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Wireless Festival</string>
+					<key>festivalDate</key>
+					<date>2012-07-06T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Rihanna Metric Drake The Roots deadmau5 Wiz Khalifa Nicki Minaj Calvin Harris Santigold Pitbull Jessie J J. Cole Far East Movement Nero The Weeknd Childish Gambino Example Chiddy Bang Kaskade Hilltop Hoods The-Dream Professor Green Flux Pavilion Theophilus London Cher Lloyd ASAP Rocky Feed Me Afrojack Modestep Doctor P Zeds Dead Ms. Dynamite Labrinth Kreayshawn AraabMUZIK Gemini Rizzle Kicks Knife Party ZEDD Skyline Maverick Sabre Madeon KOAN Sound Angel Dot Rotten Delilah Rita Ora D&apos;Banj Jaguar Skills AlunaGeorge Sneakbo Lady Leshurr Monsta Stooshe EJ Clement Marfo &amp; The Frontline Josh Osho Tulisa Bakery Boys Subdrop Sophie Lloyd</string>
+					<key>festivalPrice</key>
+					<integer>178</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Isle of Wight Festival</string>
+					<key>festivalDate</key>
+					<date>2012-06-20T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Pearl Jam Crystal Castles Bruce Springsteen Enter Shikari Biffy Clyro Groove Armada Switchfoot Elbow Noah And The Whale Lana Del Rey Feeder Tom Petty And The Heartbreakers Primal Scream Best Coast Kelis Jessie J The Darkness Madness Ash Tinie Tempah The Stranglers Example The Vaccines The Charlatans Melanie C Black Stone Cherry Boyce Avenue Band of Skulls The Pierces Magnetic Man Katy B Christina Perri Professor Green X Miles Kane Noel Gallagher&apos;s High Flying Birds Steve Hackett Joan Armatrading Big Country Beth Hart Pulled Apart By Horses Labrinth Matt Cardle Wretch 32 Penguin Prison Fallulah Dry The River Terry Reid Thunderclap Newman The Christians Loick Essien Spector Sofia Stackridge Gretchen Peters The Virginmarys The Milk Zulu Winter Stooshe James Walsh Clement Marfo &amp; The Frontline Andrew Roachford Tobi Tensheds Brit Floyd Sadie and the Hot Heads</string>
+					<key>festivalPrice</key>
+					<integer>228</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>V Festival Hylands Park</string>
+					<key>festivalDate</key>
+					<date>2012-08-18T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>The Killers Snow Patrol Keane David Guetta The Ting Tings Nicki Minaj James Morrison The Stone Roses Noah And The Whale Friendly Fires Frank Turner Pixie Lott Madness Rodrigo y Gabriela Nero Tinie Tempah The Stranglers Example Ed Sheeran The Human League Tom Jones The Rifles The Enemy DJ Fresh Happy Mondays Professor Green Lissie The Proclaimers Ben Howard Olly Murs Miles Kane Reverend and the Makers Noel Gallagher&apos;s High Flying Birds Inspiral Carpets Shed Seven Labrinth Rizzle Kicks Maverick Sabre Emeli Sandé Dappy Subdrop</string>
+					<key>festivalPrice</key>
+					<integer>210</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Download Festival</string>
+					<key>festivalDate</key>
+					<date>2012-06-08T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Rise Against Nightwish The Prodigy Megadeth Black Sabbath Opeth Billy Talent NOFX Tenacious D Killswitch Engage As I Lay Dying Dropkick Murphys Lamb of God Trivium Soundgarden Biffy Clyro Machine Head August Burns Red Black Label Society Fear Factory Shinedown You Me At Six Anthrax DevilDriver Four Year Strong Edguy Theory of a Deadman Chase &amp; Status SOiL Turbonegro Emmure Refused Europe La Dispute Saxon Slash Skindred Gallows Devin Townsend Project Black Veil Brides Kids In Glass Houses Cancer Bats We Are The Ocean Periphery Firewind Ugly Kid Joe Steel Panther T. Mills Sebastian Bach Sylosis Halestorm Lower Than Atlantis Fozzy Breed77 Anti-Nowhere League While She Sleeps Terrorvision Reckless Love Porter Robinson William Control Upon A Burning Body The Quireboys Rise To Remain Gun Rival Sons My Passion Corey Taylor Kamchatka Black Spiders Turbowolf Heaven&apos;s Basement Don Broco Little Angels The Safety Fire The Defiled Broken Kopek Mallory Knox The Yo-Yo&apos;s The James Cleaver Quintet The Treatment Pitchblack 4Arm Neonfly Absolute Power Hounds Fearless Vampire Killers Freebase Marmozets Ginger Wildheart Avosetta Kobra and The Lotus Kyuss Lives! Stellar Revival Butcher Babies Red, White &amp; Blues</string>
+					<key>festivalPrice</key>
+					<integer>228</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>V Festival Hylands Park</string>
+					<key>festivalDate</key>
+					<date>2012-08-18T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>The Killers Snow Patrol Keane David Guetta The Ting Tings Nicki Minaj James Morrison The Stone Roses Noah And The Whale Friendly Fires Frank Turner Pixie Lott Madness Rodrigo y Gabriela Nero Tinie Tempah The Stranglers Example Ed Sheeran The Human League Tom Jones The Rifles The Enemy DJ Fresh Happy Mondays Professor Green Lissie The Proclaimers Ben Howard Olly Murs Miles Kane Reverend and the Makers Noel Gallagher&apos;s High Flying Birds Inspiral Carpets Shed Seven Labrinth Rizzle Kicks Maverick Sabre Emeli Sandé Dappy Subdrop</string>
+					<key>festivalPrice</key>
+					<integer>179</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>V Festival Weston Park</string>
+					<key>festivalDate</key>
+					<date>2012-08-18T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>The Killers Snow Patrol Keane David Guetta The Ting Tings Nicki Minaj James Morrison The Stone Roses Gossip Noah And The Whale Friendly Fires LMFAO Frank Turner Pixie Lott Madness Rodrigo y Gabriela Nero Tinie Tempah Newton Faulkner Childish Gambino The Stranglers Example Ed Sheeran The Human League The Feeling Tom Jones The Rifles Frank Ocean Sub Focus The Enemy DJ Fresh Happy Mondays Professor Green Lissie The Proclaimers Ben Howard Olly Murs Miles Kane Reverend and the Makers Noel Gallagher&apos;s High Flying Birds Cher Lloyd Inspiral Carpets Shed Seven Beverley Knight Labrinth Wretch 32 Rizzle Kicks Maverick Sabre Emeli Sandé Dappy Rita Ora Cover Drive Stooshe</string>
+					<key>festivalPrice</key>
+					<integer>210</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Bestival</string>
+					<key>festivalDate</key>
+					<date>2012-09-16T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Sigur Rós The xx Justice Hot Chip New Order Two Door Cinema Club Bat for Lashes Stevie Wonder Four Tet Caribou Friendly Fires MF Doom The Horrors De La Soul Orbital Sage Francis Little Dragon Spiritualized Nero Soulwax Death In Vegas Ane Brun Slagsmålsklubben Gallows Roots Manuva Earth, Wind &amp; Fire Gary Numan 2 Many DJ&apos;s SBTRKT Gold Panda Sub Focus Chairlift First Aid Kit Grimes Major Lazer Borgore Kavinsky Ben Howard Flux Pavilion LTJ Bukem Field Music Camo &amp; Krooked Scuba Dub Pistols Buraka Som Sistema Errors Doctor P Adam Ant DJ Yoda Sister Sledge King Khan &amp; The Shrines Claude VonStroke Totally Enormous Extinct Dinosaurs Iceage Ahab Dirty Beaches John Talabot Gemini Rizzle Kicks Porcelain Raft Michael Kiwanuka Forest Swords Inner City Scratch Perverts Jamie xx Bellowhead Friends Thundercat The Japanese Popstars Pariah The 2 Bears Chris Coco Azealia Banks Plastician Jeffrey Lewis &amp; The Junkyard Julio Bashmore Girl Unit Emeli Sandé Delilah Charli XCX King Krule Lucy Rose Gabrielle Aplin Clock Opera Chas &apos;n&apos; Dave Trailer Trash Tracys Maya Jane Coles Misty&apos;s Big Adventure Mosca Toy Phil Mison General Levy This Is The Kit Gesaffelstein Top Cat Factory Floor Kevin Saunderson Justin Martin Turbowolf Stay Pearson Sound Drums Of Death Fiction Diagrams The Lovely Eggs Jinja Safari Lianne La Havas Emily Barker &amp; The Red Clay Halo Milagres Alabama Shakes Prince Fatty Frankie Rose Liz Green Jaguar Skills Gecko Kindness 2:54 Patterns Stealing Sheep Greg Wilson The Cuban Brothers To Kill a King Charming Jackmaster Eats Everything Dismantle Mixmaster Morris Ben UFO Oneman Ren Harvieu Moodyman Laurel Collective Kwes. Ghost Outfit Shepherds Young British Artists Mary Epworth Ryan Keen Alt-J DJ Shepdog Kwes Pete Gooding Nina Nesbitt Jaipur Kawa Brass Band Skinny Lister Wet Nuns PBR Streetgang Josh Kumra BIGkids François Kevorkian Blackhouse Crow Sean McGowan Three Bonzos And A Piano Model Society L.A. Salami Heathward Sir Coxsone Outernational St Spirit</string>
+					<key>festivalPrice</key>
+					<integer>216</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>T in the Park</string>
+					<key>festivalDate</key>
+					<date>2012-06-06T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Snow Patrol Florence + the Machine Kasabian Keane David Guetta Kaiser Chiefs Enter Shikari New Order Mastodon Two Door Cinema Club McFly The Subways Elbow Skrillex Nicki Minaj James Morrison Amy Macdonald Calvin Harris The Stone Roses Bombay Bicycle Club The Maccabees Feeder The Temper Trap The Horrors Miike Snow Simian Mobile Disco Paul Kalkbrenner The Brian Jonestown Massacre Chase &amp; Status Jessie J Orbital Frank Turner The Darkness Blood Red Shoes fun. Simple Minds Tinie Tempah Childish Gambino Example The Vaccines Peter Doherty Swedish House Mafia Hilltop Hoods The Courteeners The Enemy Band of Skulls Crookers Benga Major Lazer Christina Perri The Wanted Happy Mondays Professor Green Ben Howard Olly Murs Miles Kane Reverend and the Makers Noel Gallagher&apos;s High Flying Birds The Jezabels Cher Lloyd Here We Go Magic Twin Atlantic Benjamin Francis Leftwich Devlin DJ Yoda Fake Blood The Wailers Shed Seven Dawes Sven Väth Pulled Apart By Horses Labrinth Joris Voorn Django Django The Parlotones Rizzle Kicks Slam Bellowhead Maverick Sabre Dubfire Tribes Jack Beats Mull Historical Society Pan-Pot Clouds We Are Augustines King Charles Erol Alkan Emeli Sandé Maya Jane Coles Dog Is Dead Len Faki Dappy Little Roy Howler Cover Drive Alabama Shakes Gary Beck The Minutes Hans Bouffmyhre The Milk Zulu Winter Stooshe Ren Harvieu Lawson Lonsdale Boys Club Subdrop</string>
+					<key>festivalPrice</key>
+					<integer>222</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Leeds Festival</string>
+					<key>festivalDate</key>
+					<date>2012-08-24T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Foo Fighters Paramore The Cure The Shins Florence + the Machine Bullet For My Valentine Crystal Castles Kasabian Billy Talent The Black Keys All Time Low Kaiser Chiefs Justice Coheed and Cambria Enter Shikari The Hives Mastodon Angels &amp; Airwaves Two Door Cinema Club Passion Pit Anti-Flag At the Drive-In Saves The Day The Gaslight Anthem Less Than Jake You Me At Six Santigold Bombay Bicycle Club Eagles Of Death Metal The Maccabees The Horrors Every Time I Die Metronomy Social Distortion The Cribs Miike Snow Me First And The Gimme Gimmes Turbonegro The Bouncing Souls Blood Red Shoes Mystery Jets The Vaccines Ceremony Chiddy Bang A Wilhelm Scream Gallows The Blackout The Courteeners SBTRKT Graham Coxon Trash Talk Cancer Bats Band of Skulls OFWGKTA Polar Bear Club Good Riddance Grimes Katy B The Joy Formidable Touche Amore The Flatliners This is Hell Of Monsters and Men Here We Go Magic Deaf Havana Dead to Me Twin Atlantic Feed Me Modestep Star Fucking Hipsters Pulled Apart By Horses Mark Lanegan Band Django Django Dry The River Friends Random Hand Tribes The Japanese Popstars The Skints Azealia Banks Apologies, I Have None Zinc Howler Spector Jaguar Skills Clement Marfo &amp; The Frontline Jagga Pure Love Pettybone</string>
+					<key>festivalPrice</key>
+					<integer>237</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Reading Festival</string>
+					<key>festivalDate</key>
+					<date>2012-08-24T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Foo Fighters Paramore The Cure The Shins Florence + the Machine Bullet For My Valentine Crystal Castles Kasabian Billy Talent The Black Keys All Time Low Kaiser Chiefs Justice Coheed and Cambria Enter Shikari The Hives Mastodon Angels &amp; Airwaves Two Door Cinema Club Passion Pit Anti-Flag At the Drive-In Saves The Day The Gaslight Anthem Less Than Jake You Me At Six Foster the People Santigold Los Campesinos! Bombay Bicycle Club Eagles Of Death Metal The Maccabees The Horrors Every Time I Die Metronomy Social Distortion The Cribs Miike Snow Me First And The Gimme Gimmes Turbonegro The Bouncing Souls Blood Red Shoes Mystery Jets The Vaccines Ceremony Chiddy Bang A Wilhelm Scream Gallows The Blackout The Courteeners SBTRKT Graham Coxon Trash Talk Cancer Bats Band of Skulls OFWGKTA Polar Bear Club Good Riddance Grimes Katy B The Joy Formidable Touche Amore The Flatliners This is Hell Of Monsters and Men Here We Go Magic Deaf Havana Dead to Me Twin Atlantic Feed Me Modestep Star Fucking Hipsters Pulled Apart By Horses Mark Lanegan Band Django Django Dry The River Friends Random Hand Tribes The Japanese Popstars The Skints Azealia Banks Apologies, I Have None Howler Spector Jaguar Skills Clement Marfo &amp; The Frontline Jagga Pure Love Pettybone</string>
+					<key>festivalPrice</key>
+					<integer>237</integer>
+				</dict>
+			</array>
+			<key>countryName</key>
+			<string>United Kingdom</string>
+		</dict>
+		<key>belgium</key>
+		<dict>
+			<key>festivals</key>
+			<array>
+				<dict>
+					<key>festivalName</key>
+					<string>Suikerrock</string>
+					<key>festivalDate</key>
+					<date>2012-07-26T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Mika Alice Cooper ZZ Top LMFAO Texas Status Quo Gabriel Rios Triggerfinger Ozark Henry Arsenal Daan Tom Dice De Mens &apos;t Hof van Commerce Channel Zero School is Cool Philip Sayce The Union Sweet Savage Luc Van Acker</string>
+					<key>festivalPrice</key>
+					<integer>45</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Tomorrowland Festival</string>
+					<key>festivalDate</key>
+					<date>2012-07-27T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Pendulum David Guetta Fatboy Slim Skrillex Calvin Harris Paul van Dyk The Bloody Beetroots Ferry Corsten Above &amp; Beyond Swedish House Mafia Martin Solveig Avicii Miss Kittin Angerfist Lil Jon Steve Aoki Extrawelt Roger Sanchez Richie Hawtin Headhunterz Gabriel &amp; Dresden Kollektiv Turmstrasse Marco V Afrojack Sander Van Doorn Mark Farina Fake Blood Jeff Mills Talamasca Martyn Electric Universe Super8 &amp; Tab Sidney Samson Zeds Dead Goldie John O&apos;Callaghan Skazi Hector Yahel Gareth Emery Emalkay Sven Väth Orjan Nilsen Noisecontrollers Brennan Heart Carl Cox John Digweed Porter Robinson The Others Laidback Luke Joris Voorn W&amp;W Rebecca &amp; Fiona Mat Zo Rockwell Gregor Tresher Technoboy Green Velvet D-Block &amp; S-te-fan Bingo Players Nitrous Oxide Loco Dice Dave Clarke Jaytech Steve Bug Aly &amp; Fila Korsakoff Leon Bolier Wax Chuckie Sean Tyas Wildstylez UMEK Andy Moor Guy Gerber Alix Perez Felix Cartal Âme Dirty South ZEDD Wolfpack The Prophet Kyau &amp; Albert Tritonal Mustard Pimp Ben Klock Dubfire N-Type Trolley Snatcha Chris Liebing Derrick May Zatox The Pitcher Marco Carola Felguk Congorock M.I.K.E. DJ T. Zany Luke Slater Niels van Gogh Plastician Joachim Garraud Synsun Friction Johan Gielen DJ Coone Icicle Disorder Tuneboy Sound Of Stereo Solomun Hardwell The Advent South Central Subscape Josh Wink DJ Sneak SpectraSoul The Prototypes Marco Bailey Terence Fixmer Dave Seaman Myon &amp; Shane 54 DJ Rush Hatcha Neon Tommy Trash Kraantje Pappie Tenishia Planetary Assault Systems Cari Lekebusch Da Tweekaz Vato Gonzalez Psyko Punkz Jamie Jones Shlomi Aber Alesso Autoerotique DJ Friction Rodriguez Jr. Walsh Swanky Tunes The Offenders Nicky Romero Solee Maceo Plex Deetron David August John &apos;00&apos; Fleming Boom Jinx Seth Troxler Lady Linn Oliver Twizt Clockwork NERVO NU Joseph Capriati Quintino Villain Derrick Carter Daniel Stefanik Hijak Paco Osuna Batman The Flexican Sascha Dive Tai Eptic Sandro Silva Ran-D Myon Matthias Meyer B-Front Dimitri Vegas &amp; Like Mike Marco Remus Mark With a K Dirty Doering DMC Requake Yousef Ben Nicky San Soda R3hab Hermanez Marcus Meinhardt Shane 54 Mystique Norin &amp; Rad Michael Calfan SP:MC Peacetreaty Primate The Oddword DR Rude one87 Isaac Pierre Sunnery James &amp; Ryan Marciano André Galluzzi Act 1 Jon Rundell DJ Ghost tINI DJ Rebel Demoniak Dan Sena Nicole Moudaber Dismantle Gregori Klosman Superman Orla Feeney Boss Axis Tom Dazing Code Black Rebekah Jake The Rapper Angger Dimas Mistajam BP Rod Azlan AN21 Ese Cazzette Dejan Milicevic Davoodi Spiderman Prinz Qulinez Yves V D.O.D. Bestien Caspar Dr Phunk Moonflower diMaro Crazy D Ultrasone Jeroen Search Speedwagon Joachim BrownZ MC Stretch MC Verse Athys &amp; Duster TLP Gave N8N Red D Takt Tick Hard Driver EC Twins Spacid Albin Meyers Artroniks Cesare Evi Daily sese Don Santos Hauk N Baum Jack The Rapper BNJ Bonzaï PsyTox Saxman Wontime Deltano Jidax Lee Mac gustaPH Kenny Raw After 12 yves the ruyter Kr!z Sound Freakerz Ugur Yurt Fatima Hajji Nicolaz Massimo Girardi Firaga jan vervloet Mc Justice MC Chucky Anoesjka Danny Faber Hookerz D Convict Stykz MC Ruffian Ken Mac Tofke DJ Ward Makasi KOODOO MC V Don Cabron Kastor &amp; Dice Goldorak &amp; Solpher Guy&apos;Do Phil Monday The Jelly Bellies Bartholomeo Jonas Lion Etnik &amp; Fuzz Sgt Pokes huma noyd OLIVIER SCHORIES La Maz Curtis Zeki J. Fernandes Deejames Laurenzinho Cedex &amp; Higher Underground Patrick Schmidt Mc Mush norion PILOKA KRACH Cue V Mc Sef MC Tjen MC Mantmast Foxy lady &amp; mc Elvee Niobeat NGA Sound Christian Varela</string>
+					<key>festivalPrice</key>
+					<integer>172</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Les Ardentes Festival</string>
+					<key>festivalDate</key>
+					<date>2012-07-05T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Marilyn Manson Morrissey M83 50 Cent Cypress Hill The Ting Tings Rufus Wainwright White Lies Yeasayer Edward Sharpe &amp; The Magnetic Zeros Patti Smith Rodrigo y Gabriela Warpaint Mr. Oizo Pretty Lights Death In Vegas Milow Shearwater Dub FX Twin Shadow I Blame Coco SoKo Kavinsky Balkan Beat Box The Jon Spencer Blues Explosion Theophilus London Caravan Palace Absynthe Minded Here We Go Magic Dionysos Rustie Joker Pony Pony Run Run Sharon Van Etten The Parlotones Housse de Racket Maverick Sabre Madeon Morning Parade The Bony King of Nowhere Erol Alkan Divine The Hickey Underworld BirdPen BeardyMan Jonathan Wilson Brigitte Ed Kowalczyk Roscoe Joshua Frànçois &amp; The Atlas Mountains School is Cool True Tiger Sallie Ford &amp; the Sound Outside The Magician Hollie Cook Joey Starr Rednek Eptic Juveniles The Experimental Tropic Blues Band Great Mountain Fire Hubert-felix Thiefaine Mike Skinner Kill Frenzy Matterhorn Dan San Hippocampe Fou Carbon Airways The Peas Project brns Romano Nervoso Noa Moon Blake Worrell Gaëtan Streel Raving George Supreems Big Moustache Bandits Theopilus London Salas vs DC. Issa Maiga</string>
+					<key>festivalPrice</key>
+					<integer>95</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Latitude festival</string>
+					<key>festivalDate</key>
+					<date>2012-07-12T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Bon Iver Explosions in the Sky M83 Bat for Lashes Rufus Wainwright White Lies Elbow Laura Marling Yeasayer Los Campesinos! Lana Del Rey The Horrors Metronomy St. Vincent The Antlers Battles Apparat Low Edward Sharpe &amp; The Magnetic Zeros Buena Vista Social Club Janelle Monáe Destroyer dEUS Simple Minds Wild Beasts Paul Weller Glen Hansard SBTRKT Kurt Vile Chairlift Amadou &amp; Mariam Zola Jesus The Field Slow Club tUnE-yArDs Richard Hawley Ben Howard Herman Düne Levellers Perfume Genius We Have Band Of Monsters and Men The War On Drugs Thomas Dolby Other Lives Esperanza Spalding Tim Minchin Dawes Lloyd Cole Sharon Van Etten Wooden Shjips Iceage Django Django Givers Punch Brothers Hooray for Earth I Break Horses Lang Lang Daughter Team me Baxter Dury The Crookes John Cooper Clarke King Charles Walls Josh T. Pearson Tall Ships Smoke Fairies Clock Opera Daryl Hall Toy The Cast Of Cheers Breton Cate le Bon Howler Lianne La Havas Alabama Shakes Polica Fatoumata Diawara Liz Green Kindness Vadoinmessico Theme Park Catherine A.D. Zun Zun Egui Jack Dee Weird Dreams Sam Airey Bwani Junction Alt-J Cold Specks Sunless &apos;97 Brian Cox Kwes Dexys Dingus Khan benjamin bloom Reginald D. Hunter</string>
+					<key>festivalPrice</key>
+					<integer>210</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Graspop Metal Meeting</string>
+					<key>festivalDate</key>
+					<date>2012-06-22T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Guns N&apos; Roses Megadeth Slayer Children of Bodom Limp Bizkit Killswitch Engage Motörhead Amon Amarth Lamb of God Ozzy Osbourne Trivium Godsmack Dimmu Borgir Ensiferum Machine Head Behemoth Eluveitie Sabaton August Burns Red Black Label Society Paradise Lost Fear Factory Hatebreed Cannibal Corpse DevilDriver Pennywise Comeback Kid My Dying Bride Gojira Thin Lizzy All Shall Perish Emmure Europe Exodus Unearth Alestorm Sick Of It All Nasum Slash Twisted Sister I Killed the Prom Queen H2O Black Veil Brides Obituary Aborted Primal Fear Cancer Bats Winds of Plague Gotthard Death Angel Ihsahn Ugly Kid Joe Texas In July Powerwolf Heidevolk Brutal Truth Sebastian Bach Skeletonwitch Possessed Sacred Reich While She Sleeps Jon Oliva&apos;s Pain Rival Sons Leprous Suicidal Angels Mayan Winterfylleth Black Spiders Adrenaline Mob Dear Superstar The Spudmonsters The Treatment Tracer Saille Kobra and The Lotus Kyuss Lives!</string>
+					<key>festivalPrice</key>
+					<integer>150</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Dour Festival</string>
+					<key>festivalDate</key>
+					<date>2012-07-12T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Franz Ferdinand Bon Iver The Flaming Lips Against Me! The Subways Nada Surf Parov Stelar Meshuggah Caribou Dinosaur Jr. Suicide Silence Caliban MF Doom James Blake St. Vincent The Rapture Battles Squarepusher Architects Ministry Napalm Death The Bloody Beetroots Destroyer Little Dragon Nero Municipal Waste Sébastien Tellier Baroness Suicidal Tendencies Roots Manuva Dilated Peoples Fanfarlo Black Star Sebastian Defeater Kurt Vile London Elektricity Pantha Du Prince Chairlift Mount Kimbie Clark The Skatalites DJ Food Atari Teenage Riot Deez Nuts Selah Sue Mad Sin Flux Pavilion Godflesh Textures Barrington Levy Kvelertak The War On Drugs Scuba Foreign Beggars Caspa Danny Byrd Datsik Feed Me The Abyssinians Shlohmo Ufomammut Plants and Animals Busy P Doctor P Tiken Jah Fakoly Breakbot Lone Actress Amenra Bar 9 Agoria Red Fang The Black Box Revelation Dj Koze Cookie Monsta Midnite Dub Syndicate Casiokids Dimlite Feadz DJ Hype Pinch AraabMUZIK Limewax Assassin Dam-Funk Joris Voorn Sexion d&apos;Assaut Third World Givers Gemini Puppetmastaz Do or Die DJ Kentaro Break Shaka Ponk La Phaze The Shoes Cornell Campbell Ikonika Counterstrike Lionheart Audio Klub des Loosers Punish Yourself Dope D.O.D. Speech Debelle Kanka Sun Glitters Orelsan Willow Switch Ben Klock Adam Beyer Twinkle Brothers Skarhead BadBadNotGood Team me Poliça Max Cooper Congorock KOAN Sound Marcel et son Orchestre DJ Scotch Egg Stuck in the Sound Figure FuntCase Julio Bashmore Disiz la Peste Friction The Panacea Cerebral Ballzy Marcel Dettmann Subscape Rone Mosca Seth Gueko Space Dimension Controller La Ruda Brodinski Gesaffelstein La Femme Frànçois &amp; The Atlas Mountains The Computers Turbowolf Delta Heavy Lunice 1995 Spector Malibu Stacy Rod Taylor Hanni El Khatib S.P.Y. Broussaï Les Fils de Teuhpu Wilkinson DJ Die Montevideo C2C Getatchew Mekuria &amp; The Ex &amp; Guests Mickey Moonlight Fred V &amp; Grafix Mumbai Science SOULEANCE The Experimental Tropic Blues Band Brown &amp; Gammon Owiny Sigoma Band Jahtari Riddim Force Nick Waterhouse Great Mountain Fire Castles A.S.M (A State Of Mind) Andrew Tosh T. Williams Kaer Murdock The Chain LeFtO GoldFFinch The Bots The K Murkage The Dubateers brns Club Cheval PABLO ANDRES TNGHT ROHAN LEE Richard Colvaen SURFING LEONS Sunrockers Zion Gate Hi-Fi Dj Odilon Ubuntu Soundsystem Reality Shock Soundsystem</string>
+					<key>festivalPrice</key>
+					<integer>117</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Pukkelpop</string>
+					<key>festivalDate</key>
+					<date>2012-08-16T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Foo Fighters Bloc Party Björk Feist The Black Keys Apocalyptica Wilco All Time Low Enter Shikari The Hives Hot Chip Lykke Li Two Door Cinema Club The Gaslight Anthem Flying Lotus Digitalism The Stone Roses The Tallest Man on Earth Bush Eagles Of Death Metal The Horrors Every Time I Die Social Distortion The Cribs Miike Snow The Antlers Apparat Chase &amp; Status Me First And The Gimme Gimmes Grandaddy Mark Ronson Nero Tinie Tempah Example Modeselektor Ceremony Fink Touché Amoré Tiga Mark Lanegan High Contrast Sebastian Bowerbirds Frank Ocean Trash Talk Band of Skulls OFWGKTA Crookers Good Riddance Benga Jamie Woon Magnetic Man Netsky Major Lazer Borgore The Big Pink Afghan Whigs tUnE-yArDs Diplo Goose Flux Pavilion Devil Sold His Soul Hudson Mohawke Stephen Malkmus and the Jicks Camo &amp; Krooked Ghost Deaf Havana Laurent Garnier Buraka Som Sistema Bleed From Within Graveyard Feed Me A-Trak Com Truise Modestep Doctor P Dada Life Bob Mould Letlive Ms. Dynamite Pulled Apart By Horses Yashin Labrinth Ghostpoet Carl Craig Joy Orbison Dorian Concept Django Django Andy C Gemini Niki &amp; The Dove Charles Bradley Knife Party Friends Daughter KOAN Sound Dirtyphonics Pangaea The Jim Jones Revue Dog Is Dead Len Faki Brodinski Vondelpark Gesaffelstein Blawan Jakwob Breton Howler Pearson Sound Loadstar Jacques Lu Cont C2C Alt-J (∆) Mumbai Science Jamie N Commons Jessie Ware Doorly Ben UFO SCNTST Willy Moon Troumaca</string>
+					<key>festivalPrice</key>
+					<integer>155</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Rock Werchter</string>
+					<key>festivalDate</key>
+					<date>2012-06-28T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Red Hot Chili Peppers blink-182 Rise Against The Cure Incubus Pearl Jam The Kooks Snow Patrol Regina Spektor Florence + the Machine Beirut Kasabian Within Temptation The xx Metric The All-American Rejects Justice Editors M83 Mumford &amp; Sons Dropkick Murphys Garbage Mastodon Cypress Hill deadmau5 Bat for Lashes Wiz Khalifa Wolfmother Amon Tobin Elbow Skrillex My Morning Jacket James Morrison M. Ward Gossip Bombay Bicycle Club Noah And The Whale The Maccabees Lana Del Rey The Temper Trap Paul Kalkbrenner Chase &amp; Status Mac Miller dEUS Simple Minds The Vaccines Skream Ed Sheeran Milow Nneka DJ Fresh Die Antwoord Netsky Katy B Birdy Nam Nam X Selah Sue Ben Howard Agnes Obel Miles Kane Steve Aoki James Vincent McMorrow Noel Gallagher&apos;s High Flying Birds Perfume Genius Katzenjammer Anna Calvi Other Lives The Black Box Revelation Kitty, Daisy &amp; Lewis Jack White Kreayshawn Isbells Azari &amp; III Michael Kiwanuka Knife Party Eastern Conference Champions &apos;t Hof van Commerce The Hickey Underworld School is Cool Alabama Shakes</string>
+					<key>festivalPrice</key>
+					<integer>195</integer>
+				</dict>
+			</array>
+			<key>countryName</key>
+			<string>Belgium</string>
+		</dict>
+		<key>germany</key>
+		<dict>
+			<key>festivals</key>
+			<array>
+				<dict>
+					<key>festivalName</key>
+					<string>Area 4 Festival</string>
+					<key>festivalDate</key>
+					<date>2012-08-17T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Saves The Day The Gaslight Anthem The Subways The Wombats Beatsteaks Heaven Shall Burn Every Time I Die Social Distortion Me First And The Gimme Gimmes Norma Jean Dispatch Sportfreunde Stiller Darkest Hour Kettcar Sick Of It All Agnostic Front Baroness Touché Amoré A Wilhelm Scream Boysetsfire Neaera Kylesa Donots Polar Bear Club Good Riddance We Are The Ocean The Flatliners Kvelertak Kilians Graveyard Slime Sondaschule Letlive Pulled Apart By Horses Montreal Timid Tiger O&apos;Brother Radio Havanna Nations Afire</string>
+					<key>festivalPrice</key>
+					<integer>104</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Taubertal Festival</string>
+					<key>festivalDate</key>
+					<date>2012-08-10T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Placebo Yellowcard The Wombats Beatsteaks zebrahead Bush Heaven Shall Burn Social Distortion Madsen Boysetsfire Bonaparte Broilers Fiddler&apos;s Green H-Blockx The BossHoss ZSK Panteón Rococó Hoffmaestro &amp; Chraa Royal Republic Kraftklub Sondaschule Monsters of Liedermaching 5Bugs Russkaja Templeton Pek Moop Mama</string>
+					<key>festivalPrice</key>
+					<integer>99</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Melt! Festival</string>
+					<key>festivalDate</key>
+					<date>2012-07-13T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Bloc Party Justice M83 Coma Two Door Cinema Club Rufus Wainwright The Whitest Boy Alive Yeasayer Gossip Caribou Lana Del Rey The Rapture The Raveonettes Squarepusher Little Boots Blood Red Shoes The Bloody Beetroots Destroyer Nero Plan B Modeselektor Casper Sebastian Ellen Allien Twin Shadow Frittenbude Chairlift Zola Jesus Benga Flux Pavilion Mouse on Mars Hudson Mohawke The Jezabels PeterLicht Richie Hawtin The War On Drugs Surkin Laurent Garnier Buraka Som Sistema WhoMadeWho Oliver Koletzki Rustie Agoria Claude VonStroke Superpitcher Boy AraabMUZIK John Talabot Mathew Jonson The Gaslamp Killer Thees Uhlmann Matias Aguayo Dave Clarke Niki &amp; The Dove Shadow Dancer Shed Knife Party Switch Dillon ZEDD Floating Points Kiki Magda Adam Beyer Icona Pop Lazer Sword I Heart Sharks Josh Wink Motor City Drum Ensemble Maya Jane Coles Riton Chaim Brodinski Vondelpark Mathias Kaden Gesaffelstein Phon.o Brandt Brauer Frick The Cast Of Cheers Strip Steve Djedjotronic Steffi Todd Terje Schlachthofbronx Joel Mull Nina Kraviz David August Seth Troxler Sebo K Jacques Lu Cont Douglas Greed Citizens! Skinnerbox Gaslamp Killer POLLYester Elektro Guzzi Tobias Thomas Edward Man Without Country Freedom Or Death Matador Rebolledo Jessie Ware Dixon Tobias. Tale Of Us Mike Skinner Pachanga Boys Thomas Muller Permanent Vacation Dance Disorder Willy Moon Roosevelt Sound Pellegrino Monkey Maffia DJ Supermarkt Sound Pellegrino Thermal Team Oskar Offermann Markus Kavka KMPFSPRT Hufschlag&amp;Braun Oskar Offermann &amp; Edward Aroma Pitch Dan Snaith Krsn BabyG Phon_o MFOC Her voice over boys HVOB CHRSN</string>
+					<key>festivalPrice</key>
+					<integer>126</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Berlin Festival</string>
+					<key>festivalDate</key>
+					<date>2012-09-07T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>The Killers Sigur Rós Franz Ferdinand Kate Nash Digitalism Friendly Fires Metronomy Paul Kalkbrenner Orbital Tocotronic Junior Boys Little Dragon Modeselektor Slagsmålsklubben SBTRKT Frittenbude First Aid Kit Crookers Bonaparte Grimes Major Lazer Junip iamamiwhoami We Have Band Of Monsters and Men WhoMadeWho Dada Life Kraftklub Totally Enormous Extinct Dinosaurs Cro Django Django Michael Kiwanuka Friends Daughter Morning Parade I Heart Sharks Clock Opera The Magician Dumme Jungs Jamie N Commons Sizarr Etnik</string>
+					<key>festivalPrice</key>
+					<integer>74</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Southside Festival</string>
+					<key>festivalDate</key>
+					<date>2012-06-22T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>blink-182 Rise Against The Cure The Kooks The Shins Florence + the Machine Beirut The xx The Mars Volta Justice M83 Die Ärzte Mumford &amp; Sons City and Colour Garbage New Order Bat for Lashes Wolfmother Less Than Jake Switchfoot My Morning Jacket zebrahead The Stone Roses M. Ward Bombay Bicycle Club Eagles Of Death Metal Pennywise K.I.Z. The Temper Trap Frank Turner All Shall Perish Lagwagon Mad Caddies Sportfreunde Stiller Little Dragon Hot Water Music La Dispute Madsen Kettcar The Vaccines Casper Ed Sheeran Disco Ensemble Bassnectar The Dø Adept Nneka Sebastian Kurt Vile Twin Shadow Gus Gus The Bronx Die Antwoord Band of Skulls Bonaparte Jennifer Rostock Broilers Selah Sue Nerina Pallot Bosse Steve Aoki Noel Gallagher&apos;s High Flying Birds Young Guns La Vela Puerca Katzenjammer Other Lives Busy P Royal Republic Bratze Kraftklub Fritz Kalkbrenner Hoffmaestro The Black Box Revelation Boy Kakkmaddafakka Supershirt Thees Uhlmann Azari &amp; III LaBrassBanda We Are Augustines Eastern Conference Champions BeardyMan The Computers Turbowolf Spector Golden Kanine Alt-J (∆) Dumme Jungs All The Young Willy Moon Casting Louis</string>
+					<key>festivalPrice</key>
+					<integer>131</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Summer Breeze</string>
+					<key>festivalDate</key>
+					<date>2012-08-16T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Within Temptation Katatonia Amon Amarth Lacuna Coil Dark Tranquillity Sepultura Epica Behemoth Iced Earth Eluveitie Paradise Lost The Black Dahlia Murder Oomph! Subway To Sally Nile Deathstars Architects Norma Jean Immortal Napalm Death Die Apokalyptischen Reiter ASP Unearth Insomnium Darkest Hour Municipal Waste Terror Deicide Sick Of It All Rage Six Feet Under We Butter The Bread With Butter Eisregen Graveworm Anaal Nathrakh Before The Dawn Shining Alcest Firewind Corvus Corax Tanzwut Deez Nuts Excrementory Grindfuckers Unleashed Månegarm Tankard Crowbar Toxic Holocaust Ghost Brigade Born From Pain Heidevolk Hatesphere Cattle Decapitation Betontod Die Kassierer Asphyx Incantation Mono Inc. Ahab While She Sleeps Be&apos;lakor Black Sun Aeon Menhir Desaster Nifelheim Glorior Belli Eskimo Callboy Helheim Audrey Horne Bullet Morgoth The Unguided The Generators Farsot In Solitude The Rotted Night in Gales Tasters Ohrenfeindt Vallenfyre Entrails Mambo Kurt Ski&apos;s Country Trash Devil&apos;s Train Nitrogods Roterfeld Stier black sheriff BLASMUSIK ILLENSCHWANG JASTA VS. WINDSTEIN</string>
+					<key>festivalPrice</key>
+					<integer>77</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Wacken Open Air</string>
+					<key>festivalDate</key>
+					<date>2012-08-02T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>In Flames Opeth Amon Amarth Scorpions Cradle of Filth Dimmu Borgir Kamelot Sepultura Machine Head Volbeat Hammerfall Paradise Lost The Black Dahlia Murder In Extremo Oomph! Moonspell Suicide Silence Testament Gamma Ray Schandmaul Dead by April Ministry Napalm Death Unearth Insomnium Leaves&apos; Eyes Darkest Hour Danko Jones Sick Of It All Nasum Electric Wizard Saxon Overkill Six Feet Under We Butter The Bread With Butter Delain Decapitated Kylesa Megaherz Dark Funeral Broilers D.R.I. Axel Rudi Pell Watain The BossHoss U.D.O. D-A-D Ghost Brigade Coroner Amaranthe Graveyard Endstille Sylosis ChthoniC Warbringer Dødheimsgard Red Fang Henry Rollins Forbidden Leningrad Cowboys Sacred Reich Aura Noir Massacre Mono Inc. Gehenna Circle II Circle Torfrock MANTICORA Sanctuary Channel Zero Russkaja Warrior Soul Winterfylleth Djerv Mambo Kurt Eisenherz Vogelfrey Eschenbach Saor Patrol Les Tambours du Bronx RiotGod Blaas of Glory Agro Buggirl Wölli und die Band des Jahres Manimals Dio Disciples HammerCult VolXrock Victims of Madness Victims of Deception W:O:A Firefighters</string>
+					<key>festivalPrice</key>
+					<integer>150</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Rock Im Park</string>
+					<key>festivalDate</key>
+					<date>2012-06-01T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Metallica Linkin Park The Offspring Marilyn Manson Evanescence Crystal Castles Opeth Kasabian Billy Talent Keane Tenacious D Killswitch Engage Motörhead As I Lay Dying Enter Shikari Dropkick Murphys Lamb of God Trivium The Hives Mastodon Soundgarden Maxïmo Park Guano Apes Cypress Hill Machine Head The Ting Tings Die Toten Hosen The Subways Skrillex Shinedown Anthrax DevilDriver Gossip The Maccabees Gojira Chase &amp; Status Deichkind Refused Tinie Tempah Example Peter Doherty The Rifles Donots Boyce Avenue Cancer Bats Periphery MIA. Steel Panther Ghost ASAP Rocky AWOLNATION Beginner FM Belfast Graveyard Halestorm Lower Than Atlantis Lexy &amp; K. Paul Hoffmaestro Triggerfinger While She Sleeps Cro Tove Styrke Dick Brave &amp; the Backbeats Rise To Remain Rival Sons Tribes Azealia Banks Citizens! Caligola The Koletzkis Fiva &amp; Das Phantom Orchester</string>
+					<key>festivalPrice</key>
+					<real>164.5</real>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Rock am Ring</string>
+					<key>festivalDate</key>
+					<date>2012-06-01T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>Metallica Linkin Park The Offspring Marilyn Manson Evanescence Crystal Castles Opeth Kasabian Billy Talent Keane Tenacious D Killswitch Engage Motörhead As I Lay Dying Enter Shikari Dropkick Murphys Lamb of God Trivium The Hives Mastodon Soundgarden Maxïmo Park Guano Apes Cypress Hill Machine Head The Ting Tings Die Toten Hosen The Subways Skrillex Shinedown Anthrax DevilDriver Gossip The Maccabees Gojira Chase &amp; Status Deichkind Refused Tinie Tempah Example Peter Doherty The Rifles Donots Boyce Avenue Cancer Bats Periphery MIA. Steel Panther Ghost ASAP Rocky AWOLNATION Beginner FM Belfast Graveyard Halestorm Lower Than Atlantis Hoffmaestro &amp; Chraa Lexy &amp; K. Paul Triggerfinger While She Sleeps Cro Tove Styrke Dick Brave &amp; the Backbeats Rise To Remain Rival Sons Tribes Azealia Banks Fiva Citizens! Caligola The Koletzkis</string>
+					<key>festivalPrice</key>
+					<integer>175</integer>
+				</dict>
+				<dict>
+					<key>festivalName</key>
+					<string>Hurricane</string>
+					<key>festivalDate</key>
+					<date>2012-06-22T10:00:00Z</date>
+					<key>festivalLineup</key>
+					<string>blink-182 Rise Against The Cure The Kooks The Shins Florence + the Machine Beirut The xx The Mars Volta Justice M83 Die Ärzte Mumford &amp; Sons City and Colour Garbage New Order Bat for Lashes Wolfmother Less Than Jake Switchfoot My Morning Jacket zebrahead The Stone Roses M. Ward Bombay Bicycle Club Eagles Of Death Metal Pennywise K.I.Z. The Temper Trap Frank Turner All Shall Perish Lagwagon Mad Caddies Sportfreunde Stiller Little Dragon Hot Water Music La Dispute Madsen Kettcar The Vaccines Casper Ed Sheeran Disco Ensemble Bassnectar The Dø Adept Nneka Sebastian Kurt Vile Twin Shadow Gus Gus The Bronx Die Antwoord Band of Skulls Bonaparte Jennifer Rostock Broilers Selah Sue Nerina Pallot Bosse Steve Aoki Noel Gallagher&apos;s High Flying Birds Young Guns La Vela Puerca Katzenjammer Other Lives Busy P Royal Republic Bratze Kraftklub Fritz Kalkbrenner Hoffmaestro The Black Box Revelation Boy Kakkmaddafakka Supershirt Thees Uhlmann Azari &amp; III LaBrassBanda We Are Augustines Eastern Conference Champions BeardyMan The Computers Turbowolf Spector Golden Kanine Alt-J (∆) Dumme Jungs All The Young Willy Moon Alt-J Casting Louis</string>
+					<key>festivalPrice</key>
+					<integer>125</integer>
+				</dict>
+			</array>
+			<key>countryName</key>
+			<string>Germany</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
